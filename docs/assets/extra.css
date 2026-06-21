@@ -1,0 +1,8 @@
+
+:root { --md-primary-fg-color: #0f766e; }
+.md-typeset .activity-card { border: 1px solid var(--md-default-fg-color--lightest); border-radius: 0.5rem; padding: 0.8rem 1rem; margin: 0.7rem 0; }
+.md-typeset .activity-card h3 { margin-top: 0; }
+.activity-meta { font-size: 0.85rem; opacity: 0.8; }
+.badge { display:inline-block; padding:0.1rem 0.45rem; border-radius:999px; background:var(--md-code-bg-color); margin-right:0.25rem; font-size:0.75rem; }
+#activity-controls { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: .6rem; margin: 1rem 0; }
+#activity-controls input, #activity-controls select { width: 100%; padding: .45rem; border-radius: .35rem; border: 1px solid var(--md-default-fg-color--lighter); background: var(--md-default-bg-color); color: var(--md-default-fg-color); }

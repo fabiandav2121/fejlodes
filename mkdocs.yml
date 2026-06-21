@@ -1,0 +1,88 @@
+
+site_name: Családi fejlődési tudástár
+site_description: 0–6 éves korig használható, evidenciákra épülő, gyakorlati gyermekfejlődési és tevékenységi tudástár.
+site_url: https://example.github.io/flora-fejlodesi-tudastar/
+repo_name: flora-fejlodesi-tudastar
+repo_url: https://github.com/USERNAME/flora-fejlodesi-tudastar
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: hu
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Sötét mód
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Világos mód
+
+plugins:
+  - search:
+      lang: hu
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra_css:
+  - assets/extra.css
+extra_javascript:
+  - assets/activity-search.js
+
+nav:
+  - Kezdőlap: index.md
+  - Használat:
+      - Frissítési útmutató: 00_hasznalat/frissites.md
+      - GitHub Pages beállítás: 00_hasznalat/github_pages.md
+  - Elméleti háttér:
+      - Evidencia-pilllérek: 01_elmeleti_hatter/evidencia_pillerek.md
+      - Személyiségfejlődés: 01_elmeleti_hatter/szemelyisegfejlodes.md
+      - Montessori-szűrő: 01_elmeleti_hatter/montessori_szuro.md
+      - Autonómia és kontrollérzés: 01_elmeleti_hatter/autonomia_kontroll.md
+      - Források: 01_elmeleti_hatter/forrasok.md
+  - Életkorok:
+      - 0–3 hónap: 02_eletkorok/0-3-ho.md
+      - 3–6 hónap: 02_eletkorok/3-6-ho.md
+      - 6–9 hónap: 02_eletkorok/6-9-ho.md
+      - 9–12 hónap: 02_eletkorok/9-12-ho.md
+      - 12–18 hónap: 02_eletkorok/12-18-ho.md
+      - 18–24 hónap: 02_eletkorok/18-24-ho.md
+      - 2–3 év: 02_eletkorok/2-3-ev.md
+      - 3–4 év: 02_eletkorok/3-4-ev.md
+      - 4–5 év: 02_eletkorok/4-5-ev.md
+      - 5–6 év: 02_eletkorok/5-6-ev.md
+  - Tevékenységek:
+      - Kereshető tevékenységtár: 03_tevekenysegek/kereso.md
+      - Teljes lista: 03_tevekenysegek/tevekenysegtar.md
+      - Heti rotáció: 03_tevekenysegek/heti_rotacio.md
+  - Megfigyelések:
+      - Napló sablon: 04_megfigyelesek/naplo_sablon.md
