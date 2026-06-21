@@ -1,19 +1,26 @@
-# Családi fejlődési tudástár
+# Fejlődési és tevékenységi tudástár
 
-Ez a tudástár 0 hónapostól 6 éves korig segít két dologban:
+Ez a tudástár egy **családi, gyakorlati használatra készült 0–6 éves útiterv**. Nem tudományos publikáció és nem diagnosztikai eszköz. A cél:
 
-1. **Elméleti háttér**: mit érdemes nagy vonalakban tudni a gyerek fejlődéséről, önszabályozásáról, személyiségfejlődéséről, tanulásáról és Montessori-kompatibilis otthoni környezetről.
-2. **Gyakorlati tevékenységtár**: mit lehet bent és kint csinálni úgy, hogy a szabadidő hasznos, de ne iskolásított legyen.
-
-!!! note "Használati elv"
-    Ez nem tudományos projekt és nem diagnosztikai eszköz. A cél egy könnyen frissíthető családi kézikönyv, amely peer reviewed szakirodalomra és jó minőségű könyvekre támaszkodik, de a hétköznapi alkalmazhatóságot helyezi előtérbe.
+- legyen érthető elméleti háttér a gyerekneveléshez;
+- legyen gyorsan kereshető, részletes benti/kinti tevékenységtár;
+- a Montessori-szemlélet megjelenjen, de ne dogmatikusan;
+- a tartalom könnyen frissíthető legyen.
 
 ## Gyors indulás
 
-- Ha életkor szerint olvasnál: menj az **Életkorok** menübe.
-- Ha konkrét ötlet kell ma délutánra: nyisd meg a **Kereshető tevékenységtárat**.
-- Ha a gondolkodási keretet szeretnéd: kezdd az **Evidencia-pillérekkel** és a **Személyiségfejlődéssel**.
+- **Napi használatra:** [Tevékenységkereső](03_tevekenysegek/kereso.md)
+- **Életkor szerint:** [Életkori áttekintés](02_eletkorok/index.md)
+- **Elméleti háttér:** [Elméleti háttér](01_elmeleti_hatter/index.md)
+- **Frissítés:** [Szerkesztés és frissítés](03_tevekenysegek/szerkesztes.md)
 
-## Fő újítás a v0.3-ban
+## Mi változott a v1.0-ban?
 
-A korábbi verzióhoz képest ez már **MkDocs Material** szerkezetű, tehát GitHub Pagesen online könyvként működtethető. Emellett minden életkori szakasz külön **személyiségfejlődési résszel** bővült.
+- A tevékenységek **adatbázisból** futnak: `data/activities.csv` → `docs/assets/data/activities.json`.
+- A webes kereső ténylegesen ezt a JSON-adatbázist tölti be.
+- A „észrevételek” modul kikerült.
+- A használat nem GitHub Pages-központú: helyben futtatható MkDocs-oldal, amely később bármilyen statikus tárhelyre publikálható.
+- A tevékenységtár bővült: **130 részletes tevékenység**, köztük Lovevery/Panda/Lalo jellegű fejlődési játékok, Montessori classroom inspirációk és otthoni practical life adaptációk.
+
+!!! note "Fontos"
+    A konkrét márkás játékokat nem vásárlási ajánlásként használtuk, hanem ötletforrásként: milyen képességet céloznak, milyen életkorra időzítik, és hogyan lehet ezt otthon, egyszerűbb eszközökkel megvalósítani.

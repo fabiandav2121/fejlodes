@@ -1,0 +1,156 @@
+[
+  {
+    "id": "LOVEVERY_ALL",
+    "title": "Lovevery Play Kits overview",
+    "type": "toy_subscription_official",
+    "url": "https://lovevery.com/products/the-play-kits",
+    "note": "Age-organized kits 0-5; used as inspiration for stage-based toy/activity logic, not as purchase recommendation."
+  },
+  {
+    "id": "LOVEVERY_LOOKER",
+    "title": "Lovevery Looker Play Kit (0-12 weeks)",
+    "type": "toy_subscription_official",
+    "url": "https://lovevery.com/products/the-play-kits-the-looker",
+    "note": "High-contrast cards, mobile, rattle, tummy-time visual materials."
+  },
+  {
+    "id": "LOVEVERY_BABBLER",
+    "title": "Lovevery Babbler Play Kit (13-15 months)",
+    "type": "toy_subscription_official",
+    "url": "https://lovevery.com/products/the-play-kits-the-babbler",
+    "note": "Ball run, posting/coin bank, stacker, puzzle, routine book."
+  },
+  {
+    "id": "LOVEVERY_ADVENTURER",
+    "title": "Lovevery Adventurer Play Kit (16-18 months)",
+    "type": "toy_subscription_official",
+    "url": "https://lovevery.com/products/the-play-kits-the-adventurer",
+    "note": "Ramp, pull puzzle, threadable beads, pegboard, empathy book."
+  },
+  {
+    "id": "LOVEVERY_HELPER",
+    "title": "Lovevery Helper Play Kit (25-27 months)",
+    "type": "toy_subscription_official",
+    "url": "https://lovevery.com/products/the-play-kits-the-helper",
+    "note": "Practical life sink, color matching, routine cards, simple baking book."
+  },
+  {
+    "id": "LOVEVERY_OBSERVER",
+    "title": "Lovevery Observer Play Kit (37-39 months)",
+    "type": "toy_subscription_official",
+    "url": "https://lovevery.com/products/the-play-kits-the-observer",
+    "note": "Weather board, modular playhouse, emotion dolls/books, routine ownership."
+  },
+  {
+    "id": "LOVEVERY_CONNECTOR",
+    "title": "Lovevery Connector Play Kit (49-51 months)",
+    "type": "toy_subscription_official",
+    "url": "https://lovevery.com/products/the-play-kits-the-connector",
+    "note": "Microscope, modular village, helper board, perspective-taking and flexible thinking."
+  },
+  {
+    "id": "KIWICO_PANDA",
+    "title": "KiwiCo Panda Crate official page",
+    "type": "toy_subscription_official",
+    "url": "https://www.kiwico.com/panda",
+    "note": "0-3 developmental crates; age-appropriate toys and caregiver tips."
+  },
+  {
+    "id": "PARENTS_SUBS",
+    "title": "Parents.com review of toy subscription boxes",
+    "type": "external_review",
+    "url": "https://www.parents.com/best-toy-subscription-box-8758798",
+    "note": "External comparison of KiwiCo, Lovevery, Lalo and other boxes."
+  },
+  {
+    "id": "PARENTS_SUBS2",
+    "title": "Parents.com subscription boxes for kids",
+    "type": "external_review",
+    "url": "https://www.parents.com/best-subscription-boxes-for-kids-8761973",
+    "note": "Selection criteria: age fit, longevity, educational value, durability."
+  },
+  {
+    "id": "MONTESSORI_ACADEMY",
+    "title": "Montessori Academy curriculum/material areas",
+    "type": "montessori_curriculum",
+    "url": "https://montessoriacademy.com.au/montessori-education/montessori-learning-materials/",
+    "note": "Practical Life, Sensorial, Mathematics, Language, Cultural Studies."
+  },
+  {
+    "id": "AMS_CORE",
+    "title": "American Montessori Society Core Materials and Activities for Early Childhood Programs",
+    "type": "montessori_curriculum",
+    "url": "https://amshq.org/wp-content/uploads/2025/02/EC-Core-Materials-2020.pdf",
+    "note": "Core practical life, sensorial, language, math, culture materials ages 2.5-6."
+  },
+  {
+    "id": "LILLARD_PRIMARY",
+    "title": "Lillard: What Belongs in a Montessori Primary Classroom?",
+    "type": "montessori_research",
+    "url": "https://montessori-science.org/Lillard_montessori_primary_classroom_survey_AMI_AMS_teacher_trainers.pdf",
+    "note": "Teacher-trainer survey on necessary/desirable Montessori primary classroom materials."
+  },
+  {
+    "id": "LILLARD_BOOK",
+    "title": "Lillard: Montessori – The Science Behind the Genius",
+    "type": "uploaded_book",
+    "url": "local PDF uploaded in ChatGPT conversation",
+    "note": "Montessori principles: movement, choice, executive function, interest, meaningful context, adult interaction, order."
+  },
+  {
+    "id": "SELF_DRIVEN",
+    "title": "Stixrud & Johnson: The Self-Driven Child",
+    "type": "uploaded_book",
+    "url": "local PDF uploaded in ChatGPT conversation",
+    "note": "Used as broad parenting lens for autonomy/control, not as primary peer-reviewed evidence."
+  },
+  {
+    "id": "GUIDED_PLAY_META",
+    "title": "Skene et al. 2022 guided play meta-analysis",
+    "type": "peer_reviewed",
+    "url": "https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13730",
+    "note": "Guided play as a bridge between free play and direct instruction."
+  },
+  {
+    "id": "DIAMOND_EF",
+    "title": "Diamond 2013 executive functions review",
+    "type": "peer_reviewed",
+    "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-113011-143750",
+    "note": "Executive functions: inhibitory control, working memory, cognitive flexibility."
+  },
+  {
+    "id": "HOME_MATH",
+    "title": "Daucourt et al. home math environment meta-analysis",
+    "type": "peer_reviewed",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8634776/",
+    "note": "Home mathematical interactions and early math outcomes."
+  },
+  {
+    "id": "SPATIAL_META",
+    "title": "Yang et al. 2020 spatial skills training meta-analysis",
+    "type": "peer_reviewed",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01938/full",
+    "note": "Spatial skill interventions in children 0-8."
+  },
+  {
+    "id": "BOOK_READING_META",
+    "title": "Noble et al. 2019 shared book reading meta-analysis",
+    "type": "peer_reviewed",
+    "url": "https://www.mpi.nl/publications/item3165681/impact-shared-book-reading-childrens-language-skills-meta-analysis",
+    "note": "Shared book reading and language skills."
+  },
+  {
+    "id": "MOVEMENT_META",
+    "title": "Zeng et al. 2017 physical activity in preschoolers review",
+    "type": "peer_reviewed",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5745693/",
+    "note": "Physical activity and motor/cognitive development."
+  },
+  {
+    "id": "PARENTING_META",
+    "title": "Jeong et al. 2021 parenting interventions meta-analysis",
+    "type": "peer_reviewed",
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003602",
+    "note": "Responsive parenting interventions and developmental outcomes."
+  }
+]

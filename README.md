@@ -1,18 +1,35 @@
+# Fejlődési és tevékenységi tudástár v1.0
 
-# Családi fejlődési tudástár v0.3
+Ez egy MkDocs Material alapú, helyben futtatható családi tudástár.
 
-Ez a repo egy MkDocs Material alapú, GitHub Pages-kompatibilis, 0–6 éves korig használható családi gyermekfejlődési tudástár.
+## Tartalom
 
-## Cél
+- `docs/` – a weboldal Markdown oldalai
+- `data/activities.csv` – a tevékenységek fő adatbázisa
+- `docs/assets/data/activities.json` – a webes kereső adatbázisa
+- `scripts/build_data.py` – CSV → JSON frissítő
+- `mkdocs.yml` – MkDocs beállítás
+- `START_HELYI_ELO-NEZET.bat` – Windows gyorsindító
 
-- legyen érthető elméleti háttér a gyerekneveléshez;
-- legyen kereshető gyakorlati tevékenységtár benti és kinti szabadidőhöz;
-- legyen könnyen frissíthető Markdown + CSV alapú rendszer;
-- legyen weboldal-szerű megjelenés GitHub Pagesen;
-- ne kelljen a családtagoknak GitHubot használniuk, csak linket megnyitniuk.
+## Gyors indítás Windowson
+
+Kattints duplán:
+
+```text
+START_HELYI_ELO-NEZET.bat
+```
+
+Majd nyisd meg:
+
+```text
+http://127.0.0.1:8000/
+```
 
 ## Fontos
 
-A feltöltött `The Montessori Method` EPUB technikailag hibás fájlnak tűnt: a tartalma csak egy `504 Gateway Time-out` HTML oldal volt. Emiatt ezt a verziót nem építettem be tartalmilag. Ha újra feltöltöd működő EPUB/PDF formában, később beépíthető.
+Ez a verzió nem GitHub Pagesre van kihegyezve. Helyben fut, és ha később meg akarjátok osztani, a `mkdocs build` paranccsal előálló `site/` mappa bármilyen statikus tárhelyre feltölthető.
 
-A Lillard- és Self-Driven Child-könyvek szemléleti háttérként szerepelnek. A tudományos alappillérek továbbra is elsősorban peer reviewed cikkek és meta-analízisek.
+
+## v1.2 javítás
+
+A Tevékenységkereső adatbetöltése javítva: a JavaScript most a saját betöltési útvonalából számolja ki az `assets/data/activities.json` pontos helyét, ezért működik helyi MkDocs előnézetben és később aloldalon / GitHub Pages jellegű környezetben is.

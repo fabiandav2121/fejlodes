@@ -1,26 +1,42 @@
+# Helyi használat és megosztás
 
-# Frissítési útmutató
+## Helyi használat
 
-## Új elméleti fejezet
+1. Csomagold ki a ZIP-et.
+2. Futtasd: `START_HELYI_ELO-NEZET.bat`
+3. Böngészőben: `http://127.0.0.1:8000/`
 
-1. Hozz létre új `.md` fájlt a `docs/01_elmeleti_hatter/` mappában.
-2. Add hozzá a `mkdocs.yml` `nav:` részéhez.
-3. Commit → push.
+## Tevékenység frissítése
 
-## Új életkori fejezet
+A fő fájl:
 
-1. Hozz létre új fájlt a `docs/02_eletkorok/` mappában.
-2. A fejezetben mindig legyen: rövid összefoglaló, személyiségfejlődés, gyakorlati fókusz, konkrét tevékenységek, források.
-3. Add hozzá a `mkdocs.yml` navigációhoz.
+```text
+data/activities.csv
+```
 
-## Új tevékenység
+Módosítás után:
 
-1. Írd be a `data/activities.csv` fájlba.
-2. Ugyanazt másold a `docs/data/activities.csv` fájlba is, vagy használd a későbbi export scriptet.
-3. A webes kereső automatikusan ebből olvas.
+```bat
+python scripts/build_data.py
+```
 
-## Forrás frissítése
+Majd frissítsd a böngészőt.
 
-1. Írd be a `data/sources.csv` fájlba.
-2. Ugyanazt másold a `docs/data/sources.csv` fájlba is.
-3. A forrásoldalt később automatikusan újrageneráljuk.
+## Statikus oldal készítése megosztáshoz
+
+Ha később publikus vagy félig privát oldalt akarsz:
+
+```bat
+mkdocs build
+```
+
+Ez létrehozza a `site/` mappát. Ezt lehet statikus tárhelyre feltölteni.
+
+## Könyv-PDF-ek
+
+A feltöltött könyv-PDF-eket ne tedd publikus tárhelyre. A tudástár csak saját összefoglalót és forráshivatkozást tartalmazzon.
+
+
+## v1.2 javítás
+
+A Tevékenységkereső adatbetöltése javítva: a JavaScript most a saját betöltési útvonalából számolja ki az `assets/data/activities.json` pontos helyét, ezért működik helyi MkDocs előnézetben és később aloldalon / GitHub Pages jellegű környezetben is.

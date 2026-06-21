@@ -1,5 +1,10 @@
-# Kereshető tevékenységtár
+# Tevékenységkereső
 
-Az alábbi kereső a `docs/data/activities.csv` fájlból olvas. Lehet szűrni életkorra, területre és kulcsszóra.
+Itt a kereső nem a Markdown oldalakból dolgozik, hanem a háttérben lévő tevékenység-adatbázisból:
 
-<div id="activity-search"></div>
+`data/activities.csv` → `docs/assets/data/activities.json`
+
+<div id="activity-browser">
+  <p>Tevékenységek betöltése...</p>
+</div>
+
