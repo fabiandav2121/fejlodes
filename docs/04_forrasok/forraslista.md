@@ -178,3 +178,12 @@ URL: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003
 
 Responsive parenting interventions and developmental outcomes.
 
+
+
+## Montessori-könyvek, amelyek a v1.3 frissítésben kerültek be
+
+- **Maria Montessori: The Montessori Method** – a 3-6 éves Children’s House világának klasszikus alapja. Ebben a tudástárban főként a practical life, szenzoros anyagok, csendjáték, írás-olvasás előkészítése és korai matematika otthoni fordításához használtam.
+- **Maria Montessori: The Montessori Elementary Material / Advanced Montessori Method II** – főként 7-11 éves korosztályra vonatkozik, ezért nem tananyagként került be, hanem 5-6 éves korra vonatkozó előkészítő kitekintésként: nyelvtani parancsok, szóosztályozás, olvasásértelmezés, helyiérték, törtek, geometria és rajz.
+- **Charlotte Cushman: Montessori – Why It Matters for Your Child’s Success and Happiness** – szülői szemléletű kiegészítő forrásként használtam, különösen a választás, önállóság, practical life, önellenőrzés, jutalmazás/dicséret és otthoni Montessori-hangulat témáihoz.
+
+Ezek a könyvek pedagógiai és szemléleti források. A tudományos alátámasztás továbbra is a peer reviewed forrásokra épülő fejezetekben marad külön kezelve.

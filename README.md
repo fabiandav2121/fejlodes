@@ -1,35 +1,43 @@
-# Fejlődési és tevékenységi tudástár v1.0
+# Fejlődési és tevékenységi tudástár v1.3
 
-Ez egy MkDocs Material alapú, helyben futtatható családi tudástár.
+MkDocs Material alapú, kereshető családi tudástár 0-6 éves korig.
 
-## Tartalom
+## Mi van ebben a verzióban?
 
-- `docs/` – a weboldal Markdown oldalai
-- `data/activities.csv` – a tevékenységek fő adatbázisa
-- `docs/assets/data/activities.json` – a webes kereső adatbázisa
-- `scripts/build_data.py` – CSV → JSON frissítő
-- `mkdocs.yml` – MkDocs beállítás
-- `START_HELYI_ELO-NEZET.bat` – Windows gyorsindító
+- 168 tevékenység a `data/activities.csv` adatbázisban.
+- A kereső a `docs/assets/data/activities.json` fájlból dolgozik.
+- Három új Montessori-könyv alapján bővített practical life, szenzoros, nyelvi, matematikai és geometriai tevékenységek.
+- Két új elméleti oldal: eredeti Montessori-források otthoni fordítása és elemi Montessori-kitekintés.
+- GitHub Actions workflow: `.github/workflows/deploy.yml`.
 
-## Gyors indítás Windowson
+## Helyi indítás
 
-Kattints duplán:
+Windows alatt legegyszerűbben:
 
-```text
+```
 START_HELYI_ELO-NEZET.bat
 ```
 
-Majd nyisd meg:
+Kézzel:
 
-```text
-http://127.0.0.1:8000/
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+python -m pip install -r requirements.txt
+python scripts\build_data.py
+python -m mkdocs serve
 ```
 
-## Fontos
+Majd böngészőben: `http://127.0.0.1:8000/`
 
-Ez a verzió nem GitHub Pagesre van kihegyezve. Helyben fut, és ha később meg akarjátok osztani, a `mkdocs build` paranccsal előálló `site/` mappa bármilyen statikus tárhelyre feltölthető.
+## Frissítés GitHubon
 
+Ha csak tartalmat vagy CSV-t módosítasz, commit és push után a GitHub Actions újraépíti az oldalt.
 
-## v1.2 javítás
+```bash
+git add .
+git commit -m "tudástár frissítés"
+git push
+```
 
-A Tevékenységkereső adatbetöltése javítva: a JavaScript most a saját betöltési útvonalából számolja ki az `assets/data/activities.json` pontos helyét, ezért működik helyi MkDocs előnézetben és később aloldalon / GitHub Pages jellegű környezetben is.
+A könyv-PDF/EPUB/MOBI fájlokat ne tedd fel public repóba; csak a saját összefoglalók és hivatkozások kerüljenek a tudástárba.

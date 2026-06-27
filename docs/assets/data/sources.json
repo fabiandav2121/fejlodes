@@ -152,5 +152,33 @@
     "type": "peer_reviewed",
     "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003602",
     "note": "Responsive parenting interventions and developmental outcomes."
+  },
+  {
+    "id": "MONTESSORI_METHOD",
+    "title": "Maria Montessori: The Montessori Method",
+    "type": "uploaded_book",
+    "url": "local EPUB uploaded in ChatGPT conversation",
+    "note": "Primary/Children’s House basis: liberty within a prepared environment, practical life, sensorial materials, silence, movement, writing/reading and early arithmetic."
+  },
+  {
+    "id": "MONTESSORI_ELEMENTARY",
+    "title": "Maria Montessori: The Montessori Elementary Material / Advanced Montessori Method II",
+    "type": "uploaded_book",
+    "url": "local PDF uploaded in ChatGPT conversation",
+    "note": "Elementary sequence for grammar, reading, arithmetic, geometry and drawing; used mainly as a 5-6+ orientation and for preparatory home activities."
+  },
+  {
+    "id": "CUSHMAN_BOOK",
+    "title": "Charlotte Cushman: Montessori – Why It Matters for Your Child’s Success and Happiness",
+    "type": "uploaded_book",
+    "url": "local MOBI uploaded in ChatGPT conversation",
+    "note": "Parent-facing Montessori interpretation: practical life, sensorial, three-period lesson, nomenclature, silence, choice making, self-esteem, discipline, rewards and home support."
+  },
+  {
+    "id": "SELF_DETERMINATION",
+    "title": "Self-Determination Theory background for autonomy, competence, relatedness",
+    "type": "peer_reviewed_framework",
+    "url": "https://selfdeterminationtheory.org/theory/",
+    "note": "Used as background lens for autonomy-supportive environments; complements existing peer-reviewed parenting and motivation sources."
   }
 ]

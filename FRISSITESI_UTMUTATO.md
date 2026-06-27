@@ -1,42 +1,31 @@
-# Helyi használat és megosztás
+# Frissítési útmutató v1.3
 
-## Helyi használat
+## Tevékenység hozzáadása
 
-1. Csomagold ki a ZIP-et.
-2. Futtasd: `START_HELYI_ELO-NEZET.bat`
-3. Böngészőben: `http://127.0.0.1:8000/`
+1. Nyisd meg: `data/activities.csv`.
+2. Adj hozzá egy új sort pontosvesszős CSV-formátumban.
+3. Futtasd helyben, ha előnézetet szeretnél:
 
-## Tevékenység frissítése
-
-A fő fájl:
-
-```text
-data/activities.csv
-```
-
-Módosítás után:
-
-```bat
+```bash
 python scripts/build_data.py
+python -m mkdocs serve
 ```
 
-Majd frissítsd a böngészőt.
+GitHub Pages esetén push után a workflow automatikusan futtatja a `build_data.py` scriptet és újraépíti az oldalt.
 
-## Statikus oldal készítése megosztáshoz
+## Forrás hozzáadása
 
-Ha később publikus vagy félig privát oldalt akarsz:
+1. Nyisd meg: `data/sources.csv`.
+2. Adj hozzá új `id`, `title`, `type`, `url`, `note` mezőket.
+3. A tevékenységnél a `source_ids` oszlopban hivatkozz az ID-ra.
 
-```bat
-mkdocs build
-```
+## v1.3 új forrásai
 
-Ez létrehozza a `site/` mappát. Ezt lehet statikus tárhelyre feltölteni.
+- `MONTESSORI_METHOD`
+- `MONTESSORI_ELEMENTARY`
+- `CUSHMAN_BOOK`
+- `SELF_DETERMINATION`
 
-## Könyv-PDF-ek
+## Fontos
 
-A feltöltött könyv-PDF-eket ne tedd publikus tárhelyre. A tudástár csak saját összefoglalót és forráshivatkozást tartalmazzon.
-
-
-## v1.2 javítás
-
-A Tevékenységkereső adatbetöltése javítva: a JavaScript most a saját betöltési útvonalából számolja ki az `assets/data/activities.json` pontos helyét, ezért működik helyi MkDocs előnézetben és később aloldalon / GitHub Pages jellegű környezetben is.
+A `docs/assets/data/*.json` generált fájl. Kézzel ne szerkeszd, mert a következő `build_data.py` futtatás felülírja.

@@ -40,3 +40,16 @@ Az Excel-verzió áttekintésre és kényelmes böngészésre készült. A webes
 ## CSV megnyitása Excelben
 
 A v1.1-ben a `data/activities.csv` Excel-barát formátumú: pontosvesszős elválasztású és UTF-8 BOM-os. Magyar Windows/Excel alatt dupla kattintással általában jól nyílik. Ha mégsem, Excelben: **Adatok → Szövegből/CSV-ből**, majd válaszd a `65001: Unicode (UTF-8)` kódolást és a `;` elválasztót.
+
+
+## v1.3 frissítés
+
+A tevékenységtár v1.3-ban 168 tevékenységet tartalmaz. A legújabb sorok főleg Montessori-eredetű practical life, szenzoros, nyelvi, matematikai és geometriai tevékenységek otthoni adaptációi.
+
+Ha új sort adsz a `data/activities.csv` fájlhoz, utána futtasd:
+
+```bash
+python scripts/build_data.py
+```
+
+GitHub Actions esetén a workflow ezt push után automatikusan is lefuttatja.

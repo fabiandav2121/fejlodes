@@ -24,3 +24,13 @@ Ez a tudástár egy **családi, gyakorlati használatra készült 0–6 éves ú
 
 !!! note "Fontos"
     A konkrét márkás játékokat nem vásárlási ajánlásként használtuk, hanem ötletforrásként: milyen képességet céloznak, milyen életkorra időzítik, és hogyan lehet ezt otthon, egyszerűbb eszközökkel megvalósítani.
+
+
+## v1.3 állapot
+
+A v1.3 frissítésben három új Montessori-könyv alapján bővült a tudástár. A tevékenységkereső jelenleg 168 tevékenységet tartalmaz, köztük több új practical life, szenzoros, nyelvi, matematikai, geometriai és önállóságot támogató otthoni adaptációt.
+
+Új elméleti oldalak:
+
+- [Montessori eredeti forrásokból: otthoni fordítás](01_elmeleti_hatter/montessori_eredeti_forrasok.md)
+- [Montessori elemi kitekintés](01_elmeleti_hatter/montessori_elemi_kitekintes.md)
