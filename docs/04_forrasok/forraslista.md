@@ -178,12 +178,63 @@ URL: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003
 
 Responsive parenting interventions and developmental outcomes.
 
+## MONTESSORI_METHOD
+
+**Maria Montessori: The Montessori Method**  
+Típus: `uploaded_book`  
+URL: local EPUB uploaded in ChatGPT conversation  
+
+Primary/Children’s House basis: liberty within a prepared environment, practical life, sensorial materials, silence, movement, writing/reading and early arithmetic.
+
+## MONTESSORI_ELEMENTARY
+
+**Maria Montessori: The Montessori Elementary Material / Advanced Montessori Method II**  
+Típus: `uploaded_book`  
+URL: local PDF uploaded in ChatGPT conversation  
+
+Elementary sequence for grammar, reading, arithmetic, geometry and drawing; used mainly as a 5-6+ orientation and for preparatory home activities.
+
+## CUSHMAN_BOOK
+
+**Charlotte Cushman: Montessori – Why It Matters for Your Child’s Success and Happiness**  
+Típus: `uploaded_book`  
+URL: local MOBI uploaded in ChatGPT conversation  
+
+Parent-facing Montessori interpretation: practical life, sensorial, three-period lesson, nomenclature, silence, choice making, self-esteem, discipline, rewards and home support.
+
+## SELF_DETERMINATION
+
+**Self-Determination Theory background for autonomy, competence, relatedness**  
+Típus: `peer_reviewed_framework`  
+URL: https://selfdeterminationtheory.org/theory/  
+
+Used as background lens for autonomy-supportive environments; complements existing peer-reviewed parenting and motivation sources.
+
+## SIMONE_BABY
+
+**Simone Davies & Junnifa Uzodike: The Montessori Baby**  
+Típus: `uploaded_book`  
+URL: local EPUB uploaded in ChatGPT conversation  
+
+Szülőknek szóló Montessori baba-könyv; 0-12+ hónap, prepared environment, szabad mozgás, tiszteletteljes gondozás, aktivitáslisták.
+
+## SIMONE_TODDLER
+
+**Simone Davies: The Montessori Toddler**  
+Típus: `uploaded_book`  
+URL: local EPUB uploaded in ChatGPT conversation  
+
+Szülőknek szóló Montessori kisgyermek-könyv; 1-3 év, curious child, practical life, szem-kéz koordináció, határok, együttműködés, otthoni környezet.
+
+## SIMONE_CHILD
+
+**Simone Davies & Junnifa Uzodike: The Montessori Child**  
+Típus: `uploaded_book`  
+URL: local EPUB uploaded in ChatGPT conversation  
+
+Szülőknek szóló Montessori könyv 3-12 évesekhez; a tudástárban főként 3-6 éves otthoni ritmus, önállóság, társas és morális fejlődés, családi kultúra.
 
 
-## Montessori-könyvek, amelyek a v1.3 frissítésben kerültek be
+## Megjegyzés a feltöltött könyvekhez
 
-- **Maria Montessori: The Montessori Method** – a 3-6 éves Children’s House világának klasszikus alapja. Ebben a tudástárban főként a practical life, szenzoros anyagok, csendjáték, írás-olvasás előkészítése és korai matematika otthoni fordításához használtam.
-- **Maria Montessori: The Montessori Elementary Material / Advanced Montessori Method II** – főként 7-11 éves korosztályra vonatkozik, ezért nem tananyagként került be, hanem 5-6 éves korra vonatkozó előkészítő kitekintésként: nyelvtani parancsok, szóosztályozás, olvasásértelmezés, helyiérték, törtek, geometria és rajz.
-- **Charlotte Cushman: Montessori – Why It Matters for Your Child’s Success and Happiness** – szülői szemléletű kiegészítő forrásként használtam, különösen a választás, önállóság, practical life, önellenőrzés, jutalmazás/dicséret és otthoni Montessori-hangulat témáihoz.
-
-Ezek a könyvek pedagógiai és szemléleti források. A tudományos alátámasztás továbbra is a peer reviewed forrásokra épülő fejezetekben marad külön kezelve.
+A feltöltött könyvek nem kerülnek bele a public GitHub repóba. A tudástárban csak saját, rövid, otthoni használatra készült összefoglalók és tevékenység-adaptációk szerepelnek.

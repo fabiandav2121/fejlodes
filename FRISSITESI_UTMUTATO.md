@@ -1,4 +1,4 @@
-# Frissítési útmutató v1.3
+# Frissítési útmutató v1.4
 
 ## Tevékenység hozzáadása
 
@@ -19,13 +19,21 @@ GitHub Pages esetén push után a workflow automatikusan futtatja a `build_data.
 2. Adj hozzá új `id`, `title`, `type`, `url`, `note` mezőket.
 3. A tevékenységnél a `source_ids` oszlopban hivatkozz az ID-ra.
 
-## v1.3 új forrásai
+## v1.4 új forrásai
 
-- `MONTESSORI_METHOD`
-- `MONTESSORI_ELEMENTARY`
-- `CUSHMAN_BOOK`
-- `SELF_DETERMINATION`
+- `SIMONE_BABY` – Simone Davies & Junnifa Uzodike: *The Montessori Baby*
+- `SIMONE_TODDLER` – Simone Davies: *The Montessori Toddler*
+- `SIMONE_CHILD` – Simone Davies & Junnifa Uzodike: *The Montessori Child*
+
+## v1.4 tartalmi változások
+
+- A tevékenység-adatbázis 168-ról 224 sorra bővült.
+- Új elméleti oldal: `docs/01_elmeleti_hatter/simone_davies_konyvek.md`.
+- Frissültek az életkori oldalak v1.4 könyvfrissítés blokkal.
+- A kereső forrásmegjelenítése javult: ha egy forrás feltöltött könyv, URL nélkül is látszik a forrás-ID.
 
 ## Fontos
 
 A `docs/assets/data/*.json` generált fájl. Kézzel ne szerkeszd, mert a következő `build_data.py` futtatás felülírja.
+
+A feltöltött EPUB/PDF/MOBI könyveket ne tedd fel public GitHub repóba. A repóba csak a saját összefoglalók és tevékenység-adaptációk kerüljenek.

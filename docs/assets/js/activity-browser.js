@@ -65,7 +65,9 @@
     function sourceLinks(row) {
       const urls = String(row.source_urls || "").split(";").map(s => s.trim()).filter(Boolean);
       const ids = String(row.source_ids || "").split(";").map(s => s.trim()).filter(Boolean);
-      if (!urls.length) return "—";
+      if (!urls.length) {
+        return ids.length ? ids.map(id => `<span class="badge source-id">${esc(id)}</span>`).join(" ") : "—";
+      }
       return urls.map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(ids[i] || "forrás")}</a>`).join(" ");
     }
 

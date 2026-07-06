@@ -20,3 +20,10 @@ A v1.3 frissítésben külön fejezetet kapott az eredeti Montessori-források o
 
 - [Montessori eredeti forrásokból: otthoni fordítás](montessori_eredeti_forrasok.md)
 - [Montessori elemi kitekintés](montessori_elemi_kitekintes.md)
+
+
+## Simone Davies-könyvek otthoni fordítása
+
+A v1.4 frissítésben a *The Montessori Baby*, *The Montessori Toddler* és *The Montessori Child* került be gyakorlati Montessori-forrásként. Ezek a könyvek főként az otthoni környezet, daily rhythm, practical life, önállóság, határok, kíváncsiság, társas fejlődés és családi kultúra szintjén egészítik ki a tudástárat.
+
+- [Simone Davies könyvek otthon](simone_davies_konyvek.md)

@@ -180,5 +180,26 @@
     "type": "peer_reviewed_framework",
     "url": "https://selfdeterminationtheory.org/theory/",
     "note": "Used as background lens for autonomy-supportive environments; complements existing peer-reviewed parenting and motivation sources."
+  },
+  {
+    "id": "SIMONE_BABY",
+    "title": "Simone Davies & Junnifa Uzodike: The Montessori Baby",
+    "type": "uploaded_book",
+    "url": "local EPUB uploaded in ChatGPT conversation",
+    "note": "Szülőknek szóló Montessori baba-könyv; 0-12+ hónap, prepared environment, szabad mozgás, tiszteletteljes gondozás, aktivitáslisták."
+  },
+  {
+    "id": "SIMONE_TODDLER",
+    "title": "Simone Davies: The Montessori Toddler",
+    "type": "uploaded_book",
+    "url": "local EPUB uploaded in ChatGPT conversation",
+    "note": "Szülőknek szóló Montessori kisgyermek-könyv; 1-3 év, curious child, practical life, szem-kéz koordináció, határok, együttműködés, otthoni környezet."
+  },
+  {
+    "id": "SIMONE_CHILD",
+    "title": "Simone Davies & Junnifa Uzodike: The Montessori Child",
+    "type": "uploaded_book",
+    "url": "local EPUB uploaded in ChatGPT conversation",
+    "note": "Szülőknek szóló Montessori könyv 3-12 évesekhez; a tudástárban főként 3-6 éves otthoni ritmus, önállóság, társas és morális fejlődés, családi kultúra."
   }
 ]

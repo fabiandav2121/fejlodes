@@ -8,6 +8,10 @@ A tárgyakkal való ismételt manipuláció és a mozgásos felfedezés dominál
 
 Kosarak, konténerek, tárgyállandóság, ülés/mászás, textúrák.
 
+## v1.4 könyvfrissítés
+
+A v1.4 frissítés a mászás, nyitás-zárás, gyűrű rúdra húzása, labdás kosár és étkezéshez kapcsolódó practical life elemekkel bővítette ezt a szakaszt.
+
 ## Felnőtt szerep
 
 A sikeres saját cselekvés építi az énhatékonyságot.
@@ -23,12 +27,14 @@ A sikeres saját cselekvés építi az énhatékonyságot.
 ## Ehhez az életkorhoz tartozó tevékenységek
 
 - **Finommotorika:** 2 tevékenység
-- **Gyakorlati élet:** 1 tevékenység
+- **Gyakorlati élet:** 2 tevékenység
 - **Kogníció:** 1 tevékenység
 - **Nagymozgás:** 2 tevékenység
 - **Nyelv:** 1 tevékenység
+- **Szem-kéz koordináció:** 2 tevékenység
 - **Személyiség és kapcsolat:** 1 tevékenység
 - **Szenzoros:** 2 tevékenység
+- **Szenzoros és mozgás:** 2 tevékenység
 - **Természet és nyelv:** 1 tevékenység
 - **Téri gondolkodás:** 1 tevékenység
 

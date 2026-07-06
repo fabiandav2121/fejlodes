@@ -8,6 +8,10 @@ A biztonság, testközelség, ritmus és rövid szenzoros fókusz a legfontosabb
 
 Arc, hang, hason fekvés, kontraszt, testtudat.
 
+## v1.4 könyvfrissítés
+
+A v1.4 frissítésben a baba-szakasz erősebb hangsúlyt kapott: tiszteletteljes gondozás, szabad mozgás, kevés inger, ismétlődő hangpontok és mozgásszőnyeg.
+
 ## Felnőtt szerep
 
 Nem kell fejleszteni; kapcsolódni és jól időzített ingereket adni kell.
@@ -23,11 +27,13 @@ Nem kell fejleszteni; kapcsolódni és jól időzített ingereket adni kell.
 ## Ehhez az életkorhoz tartozó tevékenységek
 
 - **Finommotorika:** 1 tevékenység
+- **Gyakorlati élet:** 1 tevékenység
+- **Kapcsolódás és gondozás:** 2 tevékenység
 - **Nagymozgás:** 2 tevékenység
 - **Nyelv és kapcsolat:** 2 tevékenység
 - **Nyelv és mozgás:** 1 tevékenység
 - **Személyiség és testtudat:** 1 tevékenység
 - **Szenzoros:** 2 tevékenység
-- **Szenzoros és mozgás:** 3 tevékenység
+- **Szenzoros és mozgás:** 5 tevékenység
 
 [Nyisd meg a tevékenységkeresőt erre az életkorra szűrve](../03_tevekenysegek/kereso.md?age=0-3%20hó)

@@ -8,6 +8,10 @@ Megjelenik az erősebb célirányosság, keresés, utánzás és rutinban részv
 
 Posting, képek-tárgyak, kapaszkodás, víz, igen-fiók.
 
+## v1.4 könyvfrissítés
+
+A v1.4 frissítésben hangsúlyosabb lett a tárgyállandóság, első puzzle, biztonságos lemászás, gazdag nyelvi környezet és járás utáni hordozás.
+
 ## Felnőtt szerep
 
 A felnőtt feladata biztonságos teret adni a próbálkozásnak.
@@ -23,12 +27,14 @@ A felnőtt feladata biztonságos teret adni a próbálkozásnak.
 ## Ehhez az életkorhoz tartozó tevékenységek
 
 - **Finommotorika:** 3 tevékenység
-- **Gyakorlati élet:** 1 tevékenység
+- **Gyakorlati élet:** 2 tevékenység
 - **Kogníció:** 1 tevékenység
 - **Nagymozgás:** 2 tevékenység
-- **Nyelv:** 2 tevékenység
+- **Nyelv:** 3 tevékenység
 - **Nyelv és személyiség:** 1 tevékenység
+- **Szem-kéz koordináció:** 2 tevékenység
 - **Személyiség és mozgás:** 1 tevékenység
+- **Szenzoros és mozgás:** 1 tevékenység
 - **Szenzoros és practical life:** 1 tevékenység
 
 [Nyisd meg a tevékenységkeresőt erre az életkorra szűrve](../03_tevekenysegek/kereso.md?age=9-12%20hó)

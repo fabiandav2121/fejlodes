@@ -34,3 +34,18 @@ A v1.3 frissítésben három új Montessori-könyv alapján bővült a tudástá
 
 - [Montessori eredeti forrásokból: otthoni fordítás](01_elmeleti_hatter/montessori_eredeti_forrasok.md)
 - [Montessori elemi kitekintés](01_elmeleti_hatter/montessori_elemi_kitekintes.md)
+
+
+## v1.4 állapot
+
+A v1.4 frissítésben három Simone Davies/Junnifa Uzodike könyv alapján bővült a tudástár:
+
+- *The Montessori Baby*
+- *The Montessori Toddler*
+- *The Montessori Child*
+
+A tevékenységkereső jelenleg **224 tevékenységet** tartalmaz. Az új elemek főként a 0–12 hónapos baba-szakaszt, a 12–36 hónapos practical life és self-care tevékenységeket, valamint a 3–6 éves önállóságot, családi ritmust, társas-morális fejlődést és „going out” előkészítést erősítik.
+
+Új elméleti oldal:
+
+- [Simone Davies könyvek otthon](01_elmeleti_hatter/simone_davies_konyvek.md)

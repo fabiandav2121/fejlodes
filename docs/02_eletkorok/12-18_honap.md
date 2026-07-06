@@ -8,6 +8,10 @@ A járás, pakolás, beszédértés és saját akarat látványosan erősödik.
 
 Bedobás, fűzés, törlés, locsolás, egyszerű párosítás, érzelmi szavak.
 
+## v1.4 könyvfrissítés
+
+A v1.4 frissítés a self-care, kézmosási sorrend, snack-választás, tárgy-kép párosítás és kinti szenzoros játékok felé bővült.
+
 ## Felnőtt szerep
 
 A tiltások helyett előkészített igen-környezet segít.
@@ -23,12 +27,14 @@ A tiltások helyett előkészített igen-környezet segít.
 ## Ehhez az életkorhoz tartozó tevékenységek
 
 - **Finommotorika:** 3 tevékenység
-- **Gyakorlati élet:** 2 tevékenység
+- **Gyakorlati élet:** 5 tevékenység
 - **Kogníció:** 1 tevékenység
 - **Korai matematika:** 1 tevékenység
+- **Művészet és mozgás:** 1 tevékenység
 - **Nagymozgás:** 2 tevékenység
-- **Nyelv:** 1 tevékenység
+- **Nyelv:** 2 tevékenység
 - **Nyelv és kategória:** 1 tevékenység
 - **Személyiség:** 1 tevékenység
+- **Szenzoros és természet:** 1 tevékenység
 
 [Nyisd meg a tevékenységkeresőt erre az életkorra szűrve](../03_tevekenysegek/kereso.md?age=12-18%20hó)

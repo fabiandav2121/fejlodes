@@ -41,3 +41,16 @@ git push
 ```
 
 A könyv-PDF/EPUB/MOBI fájlokat ne tedd fel public repóba; csak a saját összefoglalók és hivatkozások kerüljenek a tudástárba.
+
+
+## v1.4 frissítés
+
+A v1.4 három Simone Davies/Junnifa Uzodike Montessori-könyv alapján bővíti a tudástárat:
+
+- The Montessori Baby
+- The Montessori Toddler
+- The Montessori Child
+
+A tevékenység-adatbázis 224 sorra bővült, és bekerült egy új elméleti oldal: `docs/01_elmeleti_hatter/simone_davies_konyvek.md`.
+
+A feltöltött EPUB könyveket ne tedd fel public GitHub repóba. Csak a tudástár saját összefoglalói és otthoni adaptációi kerüljenek ki.
