@@ -1,4 +1,4 @@
-site_name: Fejlődési és tevékenységi tudástár
+site_name: Fejlődési, tevékenységi és étkezési tudástár
 site_description: Családi, evidenciaalapú és Montessori-kompatibilis 0-6 éves gyerekfejlődési tudástár.
 site_url: ""
 use_directory_urls: true
@@ -30,9 +30,11 @@ theme:
 
 extra_css:
   - assets/css/activity-browser.css
+  - assets/css/recipe-browser.css
 
 extra_javascript:
   - assets/js/activity-browser.js
+  - assets/js/recipe-browser.js
 
 markdown_extensions:
   - admonition
@@ -71,5 +73,20 @@ nav:
   - Tevékenységtár:
     - Kereső: 03_tevekenysegek/kereso.md
     - Szerkesztés és frissítés: 03_tevekenysegek/szerkesztes.md
+  - Étkezés:
+    - Áttekintés: 05_etkezes/index.md
+    - 0–6 hónap: 05_etkezes/0-6_honap.md
+    - Alapelvek: 05_etkezes/alapelvek.md
+    - Responsive feeding: 05_etkezes/responsive_feeding.md
+    - Textúrák és önálló evés: 05_etkezes/texturak.md
+    - Vas és mikrotápanyagok: 05_etkezes/vas_es_mikrotapanyagok.md
+    - Allergének: 05_etkezes/allergenek.md
+    - Biztonság: 05_etkezes/biztonsag.md
+    - Italok, só és cukor: 05_etkezes/italok_so_cukor.md
+    - Válogatósság és családi étkezés: 05_etkezes/valogatossag.md
+    - BLW és BLISS: 05_etkezes/blw_bliss.md
+    - Receptkereső: 05_etkezes/receptkereso.md
+    - Receptadatbázis szerkesztése: 05_etkezes/szerkesztes.md
+    - Étkezési források: 05_etkezes/forrasok.md
   - Források:
     - Forráslista: 04_forrasok/forraslista.md

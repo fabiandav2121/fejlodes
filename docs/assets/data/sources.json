@@ -201,5 +201,145 @@
     "type": "uploaded_book",
     "url": "local EPUB uploaded in ChatGPT conversation",
     "note": "Szülőknek szóló Montessori könyv 3-12 évesekhez; a tudástárban főként 3-6 éves otthoni ritmus, önállóság, társas és morális fejlődés, családi kultúra."
+  },
+  {
+    "id": "WHO_CF_2023",
+    "title": "WHO Guideline for complementary feeding of infants and young children 6–23 months of age",
+    "type": "guideline",
+    "url": "https://www.who.int/publications/i/item/9789240081864",
+    "note": "2023-as globális, evidenciaalapú hozzátáplálási irányelv; a modul elsődleges alapja."
+  },
+  {
+    "id": "WHO_IYCF",
+    "title": "WHO – Infant and young child feeding fact sheet",
+    "type": "official_guidance",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+    "note": "Gyakorlati összefoglaló a kb. 6 hónapos kezdésről, étkezésszámról, textúrákról és reszponzív etetésről."
+  },
+  {
+    "id": "WHO_RF_REVIEW",
+    "title": "Safety and effectiveness of responsive feeding for infants and young children: systematic review and meta-analysis",
+    "type": "systematic_review",
+    "url": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3",
+    "note": "A reszponzív etetés, éhség-jóllakottság jelzések, nyomásmentes étkezés és ismételt expozíció evidenciaösszefoglalója."
+  },
+  {
+    "id": "WHO_UNHEALTHY_REVIEW",
+    "title": "WHO systematic review – unhealthy foods and beverages during complementary feeding",
+    "type": "systematic_review",
+    "url": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3",
+    "note": "Hozzáadott cukorban, sóban és energiában dús, tápanyagszegény ételek és italok áttekintése."
+  },
+  {
+    "id": "WHO_ASF_REVIEW",
+    "title": "WHO systematic review – animal-source foods during complementary feeding",
+    "type": "systematic_review",
+    "url": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3",
+    "note": "Állati eredetű ételek, tápanyagellátottság és növekedés; vas- és fehérjefókusz."
+  },
+  {
+    "id": "WHO_PLANT_REVIEW",
+    "title": "WHO systematic review – fruits, vegetables, nuts, pulses and seeds",
+    "type": "systematic_review",
+    "url": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3",
+    "note": "Zöldség, gyümölcs, hüvelyes, olajos mag és magvak szerepe a hozzátáplálásban."
+  },
+  {
+    "id": "ESPGHAN_CF_2017",
+    "title": "ESPGHAN Committee on Nutrition: Complementary Feeding – A Position Paper",
+    "type": "position_paper",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28027215/",
+    "note": "Európai gyermek-gasztroenterológiai állásfoglalás a kezdésről, vasról, allergénekről, gluténről és textúrákról."
+  },
+  {
+    "id": "EFSA_DRV",
+    "title": "EFSA – Summary of Dietary Reference Values",
+    "type": "official_reference",
+    "url": "https://www.efsa.europa.eu/sites/default/files/assets/DRV_Summary_tables_jan_17.pdf",
+    "note": "Európai tápanyag-beviteli referenciaértékek; háttér a mikrotápanyag-fejezethez."
+  },
+  {
+    "id": "CDC_CHOKING",
+    "title": "CDC – Choking Hazards",
+    "type": "official_safety",
+    "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html",
+    "note": "Fulladásveszélyes formák, állagok és biztonságos előkészítés."
+  },
+  {
+    "id": "NIAID_PEANUT_2017",
+    "title": "NIAID Addendum Guidelines for the Prevention of Peanut Allergy",
+    "type": "clinical_guideline",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5217645/",
+    "note": "Földimogyoró korai, kockázathoz igazított bevezetése; magas rizikónál orvosi egyeztetés."
+  },
+  {
+    "id": "LEAP_2015",
+    "title": "Du Toit et al. Randomized Trial of Peanut Consumption in Infants at Risk for Peanut Allergy",
+    "type": "randomized_trial",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25705822/",
+    "note": "A korai földimogyoró-bevezetés meghatározó randomizált vizsgálata."
+  },
+  {
+    "id": "BLISS_PROTOCOL",
+    "title": "Cameron et al. Development and pilot testing of Baby-Led Introduction to SolidS (BLISS)",
+    "type": "peer_reviewed",
+    "url": "https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-015-0466-8",
+    "note": "A BLW vas-, energia- és fulladásbiztonsági kockázatait célzó módosított megközelítés."
+  },
+  {
+    "id": "BLISS_RCT",
+    "title": "Taylor et al. Effect of a Baby-Led Approach to Complementary Feeding on Infant Growth and Overweight",
+    "type": "randomized_trial",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28692728/",
+    "note": "BLISS randomizált vizsgálat; a módszer nem bizonyult egyértelműen jobb általános megoldásnak."
+  },
+  {
+    "id": "FAMILY_MEALS_META",
+    "title": "Dallacker et al. The frequency of family meals and nutritional health in children: a meta-analysis",
+    "type": "meta_analysis",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29369410/",
+    "note": "Családi étkezések gyakorisága és táplálkozási kimenetek."
+  },
+  {
+    "id": "PICKY_REVIEW",
+    "title": "Taylor & Emmett. Picky eating in children: causes and consequences",
+    "type": "peer_reviewed_review",
+    "url": "https://doi.org/10.1017/S0029665118002586",
+    "note": "A válogatósság tipikus fejlődési mintái, okai és lehetséges következményei."
+  },
+  {
+    "id": "SATTER_DOR",
+    "title": "Ellyn Satter Institute – Division of Responsibility in Feeding",
+    "type": "contextual_framework",
+    "url": "https://www.ellynsatterinstitute.org/how-to-feed/the-division-of-responsibility-in-feeding/",
+    "note": "Gyakorlati etetési keret: a felnőtt felel a mit/mikor/hol kérdésekért, a gyermek a mennyiért és azért, hogy eszik-e."
+  },
+  {
+    "id": "SATTER_CHILD_OF_MINE",
+    "title": "Ellyn Satter: Child of Mine – Feeding with Love and Good Sense",
+    "type": "book_context",
+    "url": "https://www.ellynsatterinstitute.org/product/child-of-mine/",
+    "note": "Kritikailag elismert szülői könyv; gyakorlati kontextus, nem elsődleges evidencia."
+  },
+  {
+    "id": "RAPLEY_BLW",
+    "title": "Gill Rapley & Tracey Murkett: Baby-Led Weaning",
+    "type": "book_context",
+    "url": "https://www.experimentpublishing.com/catalogs/spring-2019/baby-led-weaning-revised-edition/",
+    "note": "Önetetés- és családi étkezés-központú gyakorlati könyv; a modul BLW-részében kritikusan kezelve."
+  },
+  {
+    "id": "WILSON_FIRST_BITE",
+    "title": "Bee Wilson: First Bite – How We Learn to Eat",
+    "type": "book_context",
+    "url": "https://www.basicbooks.com/titles/bee-wilson/first-bite/9780465093984/",
+    "note": "Ízlés, tanulás és étkezési kultúra közérthető, kutatásokra támaszkodó feldolgozása."
+  },
+  {
+    "id": "ROSE_BROCCOLI",
+    "title": "Dina Rose: It’s Not About the Broccoli",
+    "type": "book_context",
+    "url": "https://dinanarose.com/its-not-about-the-broccoli/",
+    "note": "Gyakorlati szokásformálási könyv; nem guideline, hanem családi alkalmazási háttér."
   }
 ]

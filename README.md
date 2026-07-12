@@ -1,20 +1,20 @@
-# Fejlődési és tevékenységi tudástár v1.3
+# Fejlődési, tevékenységi és étkezési tudástár v1.5
 
-MkDocs Material alapú, kereshető családi tudástár 0-6 éves korig.
+MkDocs Material alapú, kereshető családi tudástár 0–6 éves korig.
 
-## Mi van ebben a verzióban?
+## Tartalom
 
-- 168 tevékenység a `data/activities.csv` adatbázisban.
-- A kereső a `docs/assets/data/activities.json` fájlból dolgozik.
-- Három új Montessori-könyv alapján bővített practical life, szenzoros, nyelvi, matematikai és geometriai tevékenységek.
-- Két új elméleti oldal: eredeti Montessori-források otthoni fordítása és elemi Montessori-kitekintés.
-- GitHub Actions workflow: `.github/workflows/deploy.yml`.
+- 224 tevékenység: `data/activities.csv`
+- 50 recept: `data/recipes.csv`
+- elméleti és életkori fejezetek
+- külön étkezési modul: responsive feeding, textúrák, vas, allergének, biztonság, válogatósság, BLW/BLISS
+- GitHub Actions automatikus build és GitHub Pages publikálás
 
 ## Helyi indítás
 
-Windows alatt legegyszerűbben:
+Windows alatt:
 
-```
+```text
 START_HELYI_ELO-NEZET.bat
 ```
 
@@ -28,29 +28,10 @@ python scripts\build_data.py
 python -m mkdocs serve
 ```
 
-Majd böngészőben: `http://127.0.0.1:8000/`
+Majd: `http://127.0.0.1:8000/`
 
-## Frissítés GitHubon
+## GitHub-frissítés
 
-Ha csak tartalmat vagy CSV-t módosítasz, commit és push után a GitHub Actions újraépíti az oldalt.
+A v1.5 mappa **tartalmát** töltsd fel a repo gyökerébe a meglévő fájlok fölé, majd commit/push. A workflow újragenerálja a JSON-adatokat és a weboldalt.
 
-```bash
-git add .
-git commit -m "tudástár frissítés"
-git push
-```
-
-A könyv-PDF/EPUB/MOBI fájlokat ne tedd fel public repóba; csak a saját összefoglalók és hivatkozások kerüljenek a tudástárba.
-
-
-## v1.4 frissítés
-
-A v1.4 három Simone Davies/Junnifa Uzodike Montessori-könyv alapján bővíti a tudástárat:
-
-- The Montessori Baby
-- The Montessori Toddler
-- The Montessori Child
-
-A tevékenység-adatbázis 224 sorra bővült, és bekerült egy új elméleti oldal: `docs/01_elmeleti_hatter/simone_davies_konyvek.md`.
-
-A feltöltött EPUB könyveket ne tedd fel public GitHub repóba. Csak a tudástár saját összefoglalói és otthoni adaptációi kerüljenek ki.
+A feltöltött könyv-PDF/EPUB/MOBI fájlokat ne tedd fel public repóba.

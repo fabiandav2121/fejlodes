@@ -49,3 +49,15 @@ A tevékenységkereső jelenleg **224 tevékenységet** tartalmaz. Az új elemek
 Új elméleti oldal:
 
 - [Simone Davies könyvek otthon](01_elmeleti_hatter/simone_davies_konyvek.md)
+
+
+## v1.5 – Étkezés modul
+
+A tudástár új, adatbázis-alapú étkezési modult kapott:
+
+- [Receptkereső](05_etkezes/receptkereso.md) 50 induló recepttel;
+- 6 hónapos kortól 6 éves korig életkor-, textúra-, étrend- és allergénszűrés;
+- külön oldalak a reszponzív etetésről, textúrákról, vasról, allergénekről, fulladásbiztonságról, válogatósságról és BLW/BLISS-ről;
+- a receptek saját megfogalmazású családi adaptációk, és a `data/recipes.csv` adatbázisból futnak.
+
+**Gyors link:** [Étkezés és receptek](05_etkezes/index.md)

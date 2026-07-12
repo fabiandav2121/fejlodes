@@ -1,26 +1,11 @@
-# Data mappa
+# Adatbázisok
 
-A webes kereső fő forrása az `activities.csv` fájl. Módosítás után futtasd: `python scripts/build_data.py`.
+- `activities.csv` – tevékenységek
+- `recipes.csv` – receptek
+- `sources.csv` – források
 
-| Oszlop | Jelentés |
-|---|---|
-| `id` | id |
-| `title` | title |
-| `age_range` | age_range |
-| `area` | area |
-| `subarea` | subarea |
-| `location` | location |
-| `prep_min` | prep_min |
-| `duration_min` | duration_min |
-| `materials` | materials |
-| `short_goal` | short_goal |
-| `setup` | setup |
-| `adult_role` | adult_role |
-| `easier` | easier |
-| `harder` | harder |
-| `observe` | observe |
-| `montessori_link` | montessori_link |
-| `personality_link` | personality_link |
-| `source_ids` | source_ids |
-| `source_urls` | source_urls |
-| `evidence_tags` | evidence_tags |
+Mindhárom UTF-8 kódolású, pontosvesszővel tagolt CSV. A `scripts/build_data.py` a következő JSON-fájlokat készíti:
+
+- `docs/assets/data/activities.json`
+- `docs/assets/data/recipes.json`
+- `docs/assets/data/sources.json`
