@@ -61,3 +61,10 @@
 }
 
 .source-id { opacity: 0.85; }
+
+.audit-status { padding: .45rem .65rem; border-left: 4px solid #687787; background: color-mix(in srgb, var(--md-default-fg-color) 7%, transparent); font-size: .8rem; }
+.audit-status.audit-safety { border-left-color: #b64532; }
+.audit-issues { padding: .2rem .55rem .45rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .35rem; }
+.audit-issues ul { margin: .3rem 0; padding-left: 1.2rem; }
+
+.safety-note { border-left: 4px solid #bd593f; padding: .45rem .65rem; background: color-mix(in srgb, #bd593f 9%, transparent); }

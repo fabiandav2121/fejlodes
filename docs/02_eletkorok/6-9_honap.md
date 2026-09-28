@@ -1,41 +1,19 @@
-# 6-9 hó
+# 6–9 hónap
 
-## Hol tart nagyjából?
+## Mi fejlődhet ebben az időszakban?
 
-A tárgyakkal való ismételt manipuláció és a mozgásos felfedezés dominál.
+A tárgyak vizsgálata, kéz és száj használata, mozgás és társas oda-vissza játék új formákat ölthet. Az életkori sáv tájékozódáshoz való, nem határidő: a készségek nem egyszerre és nem minden gyermeknél ugyanabban a sorrendben jelennek meg.
 
-## Fő fókusz
+## Mit jelenthet ez otthon?
 
-Kosarak, konténerek, tárgyállandóság, ülés/mászás, textúrák.
+Játsszatok kukucsot, beszélj a cselekvéseiről; legyen idő szabad mozgásra és változatos, biztonságos felfedezésre.
 
-## v1.4 könyvfrissítés
+## Mit próbálhatsz ki?
 
-A v1.4 frissítés a mászás, nyitás-zárás, gyűrű rúdra húzása, labdás kosár és étkezéshez kapcsolódó practical life elemekkel bővítette ezt a szakaszt.
+A [tevékenységkereső](../03_tevekenysegek/kereso.md) kor szerinti ötletei opcionálisak. Egy játék, puzzle vagy Montessori-eszköz teljesítése önmagában nem fejlődési mérföldkő; ha a gyermek másban érdeklődőbb, kövesd azt.
 
-## Felnőtt szerep
+## Mikor érdemes segítséget kérni?
 
-A sikeres saját cselekvés építi az énhatékonyságot.
+Készségvesztés, hallással vagy látással kapcsolatos kétely, illetve tartós szülői aggodalom esetén beszélj a gyermekorvossal. A [fejlődési megfigyelési pontok](../06_fejlodes/variabilitas.md) nem diagnózisok. Csecsemőknél az [alvásbiztonság](../06_fejlodes/alvas.md) különösen fontos.
 
-## Ha csak 5 dolgot csináltok
-
-1. Legyen napi szinten szabad mozgás.
-2. Legyen legalább egy valós practical life jellegű bevonás.
-3. Legyen rövid közös könyvnézegetés vagy beszélgetés.
-4. Legyen választási lehetőség, de kevés opcióval.
-5. Legyen elég ismétlés, ne kelljen mindig új inger.
-
-## Ehhez az életkorhoz tartozó tevékenységek
-
-- **Finommotorika:** 2 tevékenység
-- **Gyakorlati élet:** 2 tevékenység
-- **Kogníció:** 1 tevékenység
-- **Nagymozgás:** 2 tevékenység
-- **Nyelv:** 1 tevékenység
-- **Szem-kéz koordináció:** 2 tevékenység
-- **Személyiség és kapcsolat:** 1 tevékenység
-- **Szenzoros:** 2 tevékenység
-- **Szenzoros és mozgás:** 2 tevékenység
-- **Természet és nyelv:** 1 tevékenység
-- **Téri gondolkodás:** 1 tevékenység
-
-[Nyisd meg a tevékenységkeresőt erre az életkorra szűrve](../03_tevekenysegek/kereso.md?age=6-9%20hó)
+**Források:** `AAP_PLAY_2018`, `CDC_MILESTONES`; [`CDC_MILESTONES`](../04_forrasok/forraslista.md). *Szakmai áttekintés: 2026. szeptember 27.*

@@ -124,11 +124,11 @@ Used as broad parenting lens for autonomy/control, not as primary peer-reviewed 
 
 ## GUIDED_PLAY_META
 
-**Skene et al. 2022 guided play meta-analysis**  
-Típus: `peer_reviewed`  
-URL: https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13730  
+**Skene et al. (2022): Can guidance during play enhance children’s learning and development?**  
+Típus: `systematic_review_meta_analysis`  
+URL: https://doi.org/10.1111/cdev.13730  
 
-Guided play as a bridge between free play and direct instruction.
+39 vizsgálat áttekintése, 17 meta-analízisben; kimenet- és kontextusfüggő.
 
 ## DIAMOND_EF
 
@@ -393,6 +393,134 @@ Típus: `book_context`
 URL: https://dinanarose.com/its-not-about-the-broccoli/  
 
 Gyakorlati szokásformálási könyv; nem guideline, hanem családi alkalmazási háttér.
+
+## CDC_MILESTONES
+
+**CDC: Learn the Signs. Act Early. Developmental Milestones**  
+Típus: `official_developmental_surveillance`  
+URL: https://www.cdc.gov/act-early/milestones/  
+
+Tájékozódási eszköz, nem validált szűrővizsgálat; az életkori listák 75%-os küszöböt használnak.
+
+## WHO_24H_2019
+
+**WHO (2019): Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age**  
+Típus: `guideline`  
+URL: https://www.who.int/publications/i/item/9789241550536  
+
+Korosztályos ajánlások; az egyes ajánlások bizonyítékának erőssége eltér.
+
+## AAP_SLEEP_2022
+
+**Moon et al. (2022): Sleep-Related Infant Deaths: Updated 2022 Recommendations**  
+Típus: `guideline`  
+URL: https://doi.org/10.1542/peds.2022-057990  
+
+Biztonságos csecsemőalvás; a projektben teljes szöveg.
+
+## AAP_PLAY_2018
+
+**Yogman et al. (2018): The Power of Play: A Pediatric Role in Enhancing Development**  
+Típus: `clinical_report`  
+URL: https://doi.org/10.1542/peds.2018-2058  
+
+AAP klinikai jelentés; a projektpéldányon a 2025. januári megerősítés szerepel.
+
+## AAP_DISCIPLINE_2018
+
+**Sege & Siegel (2018): Effective Discipline to Raise Healthy Children**  
+Típus: `policy_statement`  
+URL: https://doi.org/10.1542/peds.2018-3112  
+
+AAP szakmai ajánlás a nem erőszakos fegyelmezésről.
+
+## MONTESSORI_REVIEW_2023
+
+**Randolph et al. (2023): Montessori education’s impact on academic and nonacademic outcomes**  
+Típus: `systematic_review`  
+URL: https://doi.org/10.1002/cl2.1330  
+
+Teljes Montessori-programokat vizsgál; egyedi eszközök hatását nem igazolja.
+
+## PARENT_LANGUAGE_2019
+
+**Madigan et al. (2019): Parenting Behavior and Child Language: A Meta-analysis**  
+Típus: `observational_meta_analysis`  
+URL: https://doi.org/10.1542/peds.2018-3556  
+
+Megfigyeléses vizsgálatok összesítése; az együttjárás nem bizonyít okságot.
+
+## PARENTING_RCT_2021
+
+**Jeong et al. (2021): Parenting interventions to promote early child development**  
+Típus: `systematic_review_meta_analysis`  
+URL: https://doi.org/10.1371/journal.pmed.1003602  
+
+Intervenciók összesítése; programhatás nem azonos egy hétköznapi ötlet specifikus hatásával.
+
+## BOOK_WORDS_2018
+
+**Flack, Field & Horst (2018): The Effects of Shared Storybook Reading on Word Learning**  
+Típus: `meta_analysis`  
+URL: https://doi.org/10.1037/dev0000512  
+
+Szótanulási kimenetek; nem azonos a teljes későbbi nyelvi fejlődés bizonyításával.
+
+## PRETEND_REVIEW_2013
+
+**Lillard et al. (2013): The Impact of Pretend Play on Children’s Development**  
+Típus: `review`  
+URL: https://doi.org/10.1037/a0029321  
+
+Az egyedülálló oksági szerepre vonatkozó bizonyíték nem meggyőző.
+
+## TUMMY_REVIEW_2020
+
+**Hewitt et al. (2020): Tummy Time and Infant Health Outcomes**  
+Típus: `systematic_review`  
+URL: https://doi.org/10.1542/peds.2019-2168  
+
+A mozgásos összefüggések kedvezőek; sok vizsgálat megfigyeléses.
+
+## TOILET_REVIEW_2021
+
+**Mrad et al. (2021): Toilet training methods in children with normal neuropsychomotor development**  
+Típus: `systematic_review`  
+URL: https://doi.org/10.1016/j.jpurol.2021.05.010  
+
+Különböző módszerek; nem támaszt alá egyetlen mindenkinek megfelelő kezdési kort.
+
+## ATTACHMENT_META_2003
+
+**Bakermans-Kranenburg, van IJzendoorn & Juffer (2003): Less Is More**  
+Típus: `meta_analysis`  
+URL: https://doi.org/10.1037/0033-2909.129.2.195  
+
+Intervenciós szintézis; régi, történetileg fontos forrás.
+
+## SLEEP_REVIEW_2026
+
+**Pétrin et al. (2026): Behavioral sleep interventions in children aged 0–5 years**  
+Típus: `systematic_review`  
+URL: https://doi.org/10.1016/j.sleep.2026.108966  
+
+A módszerek és 24 órás alváskimenetek áttekintése; nem csecsemők biztonságos alvásáról szól.
+
+## EF_TRAIN_META_2020
+
+**Scionti et al. (2020): Is Cognitive Training Effective for Improving Executive Functions in Preschoolers?**  
+Típus: `systematic_review_meta_analysis`  
+URL: https://doi.org/10.3389/fpsyg.2019.02812  
+
+Tréningvizsgálatok; közeli feladatnyereségből nem következik általános transzfer.
+
+## AAP_BODY_SAFETY_2025
+
+**American Academy of Pediatrics / HealthyChildren (2025): Preventing Child Sexual Abuse: What Parents Need to Know**  
+Típus: `professional_organization_parent_guidance`  
+URL: https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Sexual-Abuse.aspx  
+
+Általános, szülőknek szóló gyermekvédelmi útmutató; nem klinikai hatásvizsgálat. A projektben eredetileg nem szerepelt; a kapcsolódó kártya pontosításához ellenőrizve.
 
 ## Megjegyzés a feltöltött könyvekhez
 

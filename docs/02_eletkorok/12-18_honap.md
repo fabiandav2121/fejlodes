@@ -1,40 +1,19 @@
-# 12-18 hó
+# 12–18 hónap
 
-## Hol tart nagyjából?
+## Mi fejlődhet ebben az időszakban?
 
-A járás, pakolás, beszédértés és saját akarat látványosan erősödik.
+A kommunikáció, az utánzás, a mozgás és az egyszerű játékok gyorsan változhatnak; a szavak mellett a gesztusok is számítanak. Az életkori sáv tájékozódáshoz való, nem határidő: a készségek nem egyszerre és nem minden gyermeknél ugyanabban a sorrendben jelennek meg.
 
-## Fő fókusz
+## Mit jelenthet ez otthon?
 
-Bedobás, fűzés, törlés, locsolás, egyszerű párosítás, érzelmi szavak.
+Engedd, hogy apró, biztonságos házimunkában részt vegyen; olvassatok együtt a saját tempójában.
 
-## v1.4 könyvfrissítés
+## Mit próbálhatsz ki?
 
-A v1.4 frissítés a self-care, kézmosási sorrend, snack-választás, tárgy-kép párosítás és kinti szenzoros játékok felé bővült.
+A [tevékenységkereső](../03_tevekenysegek/kereso.md) kor szerinti ötletei opcionálisak. Egy játék, puzzle vagy Montessori-eszköz teljesítése önmagában nem fejlődési mérföldkő; ha a gyermek másban érdeklődőbb, kövesd azt.
 
-## Felnőtt szerep
+## Mikor érdemes segítséget kérni?
 
-A tiltások helyett előkészített igen-környezet segít.
+Készségvesztés, hallással vagy látással kapcsolatos kétely, illetve tartós szülői aggodalom esetén beszélj a gyermekorvossal. A [fejlődési megfigyelési pontok](../06_fejlodes/variabilitas.md) nem diagnózisok. Csecsemőknél az [alvásbiztonság](../06_fejlodes/alvas.md) különösen fontos.
 
-## Ha csak 5 dolgot csináltok
-
-1. Legyen napi szinten szabad mozgás.
-2. Legyen legalább egy valós practical life jellegű bevonás.
-3. Legyen rövid közös könyvnézegetés vagy beszélgetés.
-4. Legyen választási lehetőség, de kevés opcióval.
-5. Legyen elég ismétlés, ne kelljen mindig új inger.
-
-## Ehhez az életkorhoz tartozó tevékenységek
-
-- **Finommotorika:** 3 tevékenység
-- **Gyakorlati élet:** 5 tevékenység
-- **Kogníció:** 1 tevékenység
-- **Korai matematika:** 1 tevékenység
-- **Művészet és mozgás:** 1 tevékenység
-- **Nagymozgás:** 2 tevékenység
-- **Nyelv:** 2 tevékenység
-- **Nyelv és kategória:** 1 tevékenység
-- **Személyiség:** 1 tevékenység
-- **Szenzoros és természet:** 1 tevékenység
-
-[Nyisd meg a tevékenységkeresőt erre az életkorra szűrve](../03_tevekenysegek/kereso.md?age=12-18%20hó)
+**Források:** `BOOK_WORDS_2018`, `CDC_MILESTONES`; [`CDC_MILESTONES`](../04_forrasok/forraslista.md). *Szakmai áttekintés: 2026. szeptember 27.*

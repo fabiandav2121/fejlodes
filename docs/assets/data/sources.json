@@ -106,10 +106,10 @@
   },
   {
     "id": "GUIDED_PLAY_META",
-    "title": "Skene et al. 2022 guided play meta-analysis",
-    "type": "peer_reviewed",
-    "url": "https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13730",
-    "note": "Guided play as a bridge between free play and direct instruction."
+    "title": "Skene et al. (2022): Can guidance during play enhance children’s learning and development?",
+    "type": "systematic_review_meta_analysis",
+    "url": "https://doi.org/10.1111/cdev.13730",
+    "note": "39 vizsgálat áttekintése, 17 meta-analízisben; kimenet- és kontextusfüggő."
   },
   {
     "id": "DIAMOND_EF",
@@ -341,5 +341,117 @@
     "type": "book_context",
     "url": "https://dinanarose.com/its-not-about-the-broccoli/",
     "note": "Gyakorlati szokásformálási könyv; nem guideline, hanem családi alkalmazási háttér."
+  },
+  {
+    "id": "CDC_MILESTONES",
+    "title": "CDC: Learn the Signs. Act Early. Developmental Milestones",
+    "type": "official_developmental_surveillance",
+    "url": "https://www.cdc.gov/act-early/milestones/",
+    "note": "Tájékozódási eszköz, nem validált szűrővizsgálat; az életkori listák 75%-os küszöböt használnak."
+  },
+  {
+    "id": "WHO_24H_2019",
+    "title": "WHO (2019): Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age",
+    "type": "guideline",
+    "url": "https://www.who.int/publications/i/item/9789241550536",
+    "note": "Korosztályos ajánlások; az egyes ajánlások bizonyítékának erőssége eltér."
+  },
+  {
+    "id": "AAP_SLEEP_2022",
+    "title": "Moon et al. (2022): Sleep-Related Infant Deaths: Updated 2022 Recommendations",
+    "type": "guideline",
+    "url": "https://doi.org/10.1542/peds.2022-057990",
+    "note": "Biztonságos csecsemőalvás; a projektben teljes szöveg."
+  },
+  {
+    "id": "AAP_PLAY_2018",
+    "title": "Yogman et al. (2018): The Power of Play: A Pediatric Role in Enhancing Development",
+    "type": "clinical_report",
+    "url": "https://doi.org/10.1542/peds.2018-2058",
+    "note": "AAP klinikai jelentés; a projektpéldányon a 2025. januári megerősítés szerepel."
+  },
+  {
+    "id": "AAP_DISCIPLINE_2018",
+    "title": "Sege & Siegel (2018): Effective Discipline to Raise Healthy Children",
+    "type": "policy_statement",
+    "url": "https://doi.org/10.1542/peds.2018-3112",
+    "note": "AAP szakmai ajánlás a nem erőszakos fegyelmezésről."
+  },
+  {
+    "id": "MONTESSORI_REVIEW_2023",
+    "title": "Randolph et al. (2023): Montessori education’s impact on academic and nonacademic outcomes",
+    "type": "systematic_review",
+    "url": "https://doi.org/10.1002/cl2.1330",
+    "note": "Teljes Montessori-programokat vizsgál; egyedi eszközök hatását nem igazolja."
+  },
+  {
+    "id": "PARENT_LANGUAGE_2019",
+    "title": "Madigan et al. (2019): Parenting Behavior and Child Language: A Meta-analysis",
+    "type": "observational_meta_analysis",
+    "url": "https://doi.org/10.1542/peds.2018-3556",
+    "note": "Megfigyeléses vizsgálatok összesítése; az együttjárás nem bizonyít okságot."
+  },
+  {
+    "id": "PARENTING_RCT_2021",
+    "title": "Jeong et al. (2021): Parenting interventions to promote early child development",
+    "type": "systematic_review_meta_analysis",
+    "url": "https://doi.org/10.1371/journal.pmed.1003602",
+    "note": "Intervenciók összesítése; programhatás nem azonos egy hétköznapi ötlet specifikus hatásával."
+  },
+  {
+    "id": "BOOK_WORDS_2018",
+    "title": "Flack, Field & Horst (2018): The Effects of Shared Storybook Reading on Word Learning",
+    "type": "meta_analysis",
+    "url": "https://doi.org/10.1037/dev0000512",
+    "note": "Szótanulási kimenetek; nem azonos a teljes későbbi nyelvi fejlődés bizonyításával."
+  },
+  {
+    "id": "PRETEND_REVIEW_2013",
+    "title": "Lillard et al. (2013): The Impact of Pretend Play on Children’s Development",
+    "type": "review",
+    "url": "https://doi.org/10.1037/a0029321",
+    "note": "Az egyedülálló oksági szerepre vonatkozó bizonyíték nem meggyőző."
+  },
+  {
+    "id": "TUMMY_REVIEW_2020",
+    "title": "Hewitt et al. (2020): Tummy Time and Infant Health Outcomes",
+    "type": "systematic_review",
+    "url": "https://doi.org/10.1542/peds.2019-2168",
+    "note": "A mozgásos összefüggések kedvezőek; sok vizsgálat megfigyeléses."
+  },
+  {
+    "id": "TOILET_REVIEW_2021",
+    "title": "Mrad et al. (2021): Toilet training methods in children with normal neuropsychomotor development",
+    "type": "systematic_review",
+    "url": "https://doi.org/10.1016/j.jpurol.2021.05.010",
+    "note": "Különböző módszerek; nem támaszt alá egyetlen mindenkinek megfelelő kezdési kort."
+  },
+  {
+    "id": "ATTACHMENT_META_2003",
+    "title": "Bakermans-Kranenburg, van IJzendoorn & Juffer (2003): Less Is More",
+    "type": "meta_analysis",
+    "url": "https://doi.org/10.1037/0033-2909.129.2.195",
+    "note": "Intervenciós szintézis; régi, történetileg fontos forrás."
+  },
+  {
+    "id": "SLEEP_REVIEW_2026",
+    "title": "Pétrin et al. (2026): Behavioral sleep interventions in children aged 0–5 years",
+    "type": "systematic_review",
+    "url": "https://doi.org/10.1016/j.sleep.2026.108966",
+    "note": "A módszerek és 24 órás alváskimenetek áttekintése; nem csecsemők biztonságos alvásáról szól."
+  },
+  {
+    "id": "EF_TRAIN_META_2020",
+    "title": "Scionti et al. (2020): Is Cognitive Training Effective for Improving Executive Functions in Preschoolers?",
+    "type": "systematic_review_meta_analysis",
+    "url": "https://doi.org/10.3389/fpsyg.2019.02812",
+    "note": "Tréningvizsgálatok; közeli feladatnyereségből nem következik általános transzfer."
+  },
+  {
+    "id": "AAP_BODY_SAFETY_2025",
+    "title": "American Academy of Pediatrics / HealthyChildren (2025): Preventing Child Sexual Abuse: What Parents Need to Know",
+    "type": "professional_organization_parent_guidance",
+    "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Sexual-Abuse.aspx",
+    "note": "Általános, szülőknek szóló gyermekvédelmi útmutató; nem klinikai hatásvizsgálat. A projektben eredetileg nem szerepelt; a kapcsolódó kártya pontosításához ellenőrizve."
   }
 ]

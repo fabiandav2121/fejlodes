@@ -65,10 +65,9 @@
     function sourceLinks(row) {
       const urls = String(row.source_urls || "").split(";").map(s => s.trim()).filter(Boolean);
       const ids = String(row.source_ids || "").split(";").map(s => s.trim()).filter(Boolean);
-      if (!urls.length) {
-        return ids.length ? ids.map(id => `<span class="badge source-id">${esc(id)}</span>`).join(" ") : "—";
-      }
-      return urls.map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(ids[i] || "forrás")}</a>`).join(" ");
+      const labels = ids.map(id => `<span class="badge source-id">${esc(id)}</span>`).join(" ");
+      const links = urls.filter(u => /^https?:\/\//i.test(u)).map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">Kapcsolódó link</a>`).join(" · ");
+      return [labels, links].filter(Boolean).join(" · ") || "—";
     }
 
     function tagBadges(row) {
@@ -81,6 +80,8 @@
       const area = document.getElementById("area").value;
       const location = document.getElementById("location").value;
       const tag = document.getElementById("tag").value;
+      const audit = document.getElementById("audit").value;
+      const correction = document.getElementById("correction").value;
 
       const filtered = rows.filter(r => {
         const hay = Object.values(r).join(" ").toLowerCase();
@@ -90,7 +91,9 @@
                (!age || r.age_range === age) &&
                (!area || r.area === area) &&
                (!location || loc.includes(location)) &&
-               (!tag || tags.includes(tag));
+               (!tag || tags.includes(tag)) &&
+               (!audit || String(r.audit_status || "") === audit) &&
+               (!correction || String(r.correction_status || "") === correction);
       });
 
       document.getElementById("summary").textContent = `${filtered.length} tevékenység találat / ${rows.length} összesen`;
@@ -98,11 +101,15 @@
       const html = filtered.map(r => `
         <article class="activity-card">
           <h3>${esc(r.title)}</h3>
+          <p class="audit-status ${r.correction_status === "További szakmai ellenőrzés szükséges" ? "audit-safety" : ""}"><strong>${esc(r.correction_status || "Ellenőrizendő")}</strong>${r.audit_categories ? ` · Korábbi jelzések: ${esc(r.audit_categories)}` : ""}</p>
+          ${r.safety_note ? `<p class="safety-note"><strong>Biztonsági feltétel:</strong> ${esc(r.safety_note)}</p>` : ""}
+          ${r.audit_issues ? `<details class="audit-issues"><summary>Mi volt a gond, és mit javítottunk?</summary><ul>${String(r.audit_issues).split(" | ").map(issue => `<li>${esc(issue)}</li>`).join("")}</ul><p><strong>Pontosítás:</strong> ${esc(r.correction_log)}</p></details>` : ""}
           <div class="activity-meta">
             ${esc(r.age_range)} · ${esc(r.area)} · ${esc(r.subarea)} · ${esc(r.location)}
             · előkészítés: ${esc(r.prep_min)} perc · játékidő: ${esc(r.duration_min)} perc
           </div>
-          <p><strong>Cél:</strong> ${esc(r.short_goal)}</p>
+          <p><strong>Lehetséges gyakorlás:</strong> ${esc(r.short_goal)}</p>
+          <p><strong>Életkori megjegyzés:</strong> ${esc(r.readiness_note || r.activity_note)}</p>
           <p><strong>Eszköz:</strong> ${esc(r.materials)}</p>
           <details open>
             <summary>Hogyan csináljátok?</summary>
@@ -117,10 +124,9 @@
           </details>
           <details>
             <summary>Elméleti kapcsolat</summary>
-            <p><strong>Montessori:</strong> ${esc(r.montessori_link)}</p>
-            <p><strong>Személyiség:</strong> ${esc(r.personality_link)}</p>
+            <p><strong>Hivatkozások szerepe:</strong> ${esc(r.source_role || "A felsorolt források nem az adott játék egyedi hatásának bizonyítékai.")}</p>
             <p>${tagBadges(r)}</p>
-            <p class="source-links"><strong>Források:</strong> ${sourceLinks(r)}</p>
+            <p class="source-links"><strong>Források és ötletforrások (nem az egyedi hatás bizonyítékai):</strong> ${sourceLinks(r)}</p>
           </details>
         </article>
       `).join("");
@@ -148,6 +154,12 @@
             <label>Helyszín
               <select id="location"><option value="">Összes</option><option value="benti">benti</option><option value="kinti">kinti</option></select>
             </label>
+            <label>Javítás állapota
+              <select id="correction"><option value="">Összes állapot</option><option>Pontosítva</option><option>További szakmai ellenőrzés szükséges</option><option>Nincs célzott módosítás</option></select>
+            </label>
+            <label>Korábbi auditjelzés
+              <select id="audit"><option value="">Összes tevékenység</option><option>Biztonsági pontosítás szükséges</option><option>Tartalmi pontosítás szükséges</option><option>Forráshivatkozás tisztázandó</option><option>Nincs külön jelölt probléma</option></select>
+            </label>
             <label>Címke
               <select id="tag"><option value="">Összes címke</option></select>
             </label>
@@ -172,7 +184,7 @@
         if (params.get("area")) document.getElementById("area").value = params.get("area");
         if (params.get("q")) document.getElementById("q").value = params.get("q");
 
-        ["q","age","area","location","tag"].forEach(id => {
+        ["q","age","area","location","tag","audit","correction"].forEach(id => {
           document.getElementById(id).addEventListener("input", () => render(rows));
           document.getElementById(id).addEventListener("change", () => render(rows));
         });

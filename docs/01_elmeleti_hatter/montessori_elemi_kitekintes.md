@@ -1,35 +1,11 @@
-# Montessori elemi kitekintés: miért került be 5-6 éves kortól?
+# Montessori elemi kitekintés
 
-A *The Montessori Elementary Material* eredetileg 7-11 éves gyerekek tananyagát írja le. Emiatt nem került be közvetlen „tananyagként” a 0-6 éves tudástárba. Viszont nagyon hasznos abban, hogy lássuk, milyen irányba vezetnek a korai Montessori-tevékenységek.
+Ezek a könyvek és eredeti Montessori-szövegek pedagógiai szemléletet, történeti hátteret és otthoni ötleteket kínálnak. Nem használjuk őket önmagukban arra, hogy egy meghatározott játék fejlődési mérföldkő vagy klinikai beavatkozás legyen.
 
-## A fő tanulság
+## Mit jelenthet ez otthon?
 
-A Montessori-anyagok egymásra épülnek. Ami 3-6 éves korban érzékszervi, mozgásos vagy practical life tevékenységnek tűnik, később nyelvtani, matematikai, geometriai vagy tudományos gondolkodássá alakulhat.
+Az eszközök elérhetősége, a tevékenység szabad választása és a gyermek próbálkozásainak tisztelete kipróbálható. Ha egy ötlet nem illik a gyermekhez vagy a családhoz, elhagyható. Biztonsági kérdésben az aktuális szakmai ajánlás az első.
 
-Példák:
+## Bizonyítéki helyzet
 
-- a tárgycímkézés később szófaji gondolkodás előkészítése;
-- a formaillesztés és fémbetét rajzolás később geometriai és írás-előkészítő munka;
-- a számrudak, gyöngyök és csoportosítás később helyiérték, szorzás és törtek alapja;
-- a növények, levelek és természeti tárgyak rendezése később biológiai nomenklatúrához vezet;
-- a cselekvéses parancskártyák olvasásértést, nyelvtant és mozgásos végrehajtást kötnek össze.
-
-## Mi került be ebből a tudástárba?
-
-Nem a 7-11 éves tananyagot hoztam előre, hanem annak előkészítő, játékos, otthoni verzióit:
-
-- olvasott parancskártyák;
-- főnév-, melléknév-, ige- és elöljárószó-játék;
-- szócsalád-gyűjtés;
-- tízes váltás konkrét tárgyakkal;
-- törtkör papírból;
-- ismételt összeadás kupakokkal;
-- geometriai design és rajz élő modell után.
-
-## Mit ne csináljunk?
-
-Nem cél, hogy 5-6 éves korban iskolai nyelvtant, írásbeli műveleteket vagy formális geometriát tanítsunk. A cél inkább az, hogy a gyerek sok konkrét, értelmes tapasztalatot szerezzen, amelyre később rá tud épülni az absztrakció.
-
-## Felnőtt szerepe
-
-A felnőtt ebben a szakaszban sem „tanárként” működik, hanem előkészíti a környezetet, bemutat egy rövid mozdulatsort, majd figyel. Ha a gyerek érdeklődése nem kapcsolódik, a tevékenység későbbre kerülhet.
+A Montessori-programok egészének eredményeire a [`MONTESSORI_REVIEW_2023`](../04_forrasok/forraslista.md) áttekintés a legjobb itt rendelkezésre álló közvetlen szintézis. Az egyes könyvek — például `LILLARD_BOOK`, `SIMONE_BABY`, `SIMONE_TODDLER`, `SIMONE_CHILD`, `MONTESSORI_METHOD` és `MONTESSORI_ELEMENTARY` — a [forráslistában](../04_forrasok/forraslista.md) szerepelnek; a programeredmény nem bizonyítja minden elem hatását. Részletek a [Montessori és a bizonyítékok](montessori_bizonyitek.md) oldalon.

@@ -1,25 +1,7 @@
 # Korai matematika
 
-A korai matematika nem a számoltatással kezdődik.
+A mennyiségekkel és alakokkal kapcsolatos beszélgetés játék közben is előfordulhat. A guided play egyes korai matematikai tanulási kimenetekre kedvező lehet; konkrét eszközre ne általánosítsuk.
 
-## 0–3 éves korban
+**Mit jelenthet ez otthon?** Kövesd a gyermek érdeklődését, kínálj biztonságos lehetőségeket és alkalmazkodj a család ritmusához.
 
-- több-kevesebb
-- még egy
-- elfogyott
-- ugyanaz-más
-- belefér-nem fér bele
-- nagy-kicsi
-- sorban, párban, együtt
-
-## 3–6 éves korban
-
-- darabszám és számjegy kapcsolata
-- lineáris számvonal
-- mérés
-- minták
-- formák
-- téri forgatás
-- konkrét tízesrendszer
-
-A legjobb matematikai helyzetek gyakran hétköznapiak: terítés, zoknipárosítás, bevásárlás, építés, főzés, társasjáték.
+**Forrás és bizonyítéki korlát:** GUIDED_PLAY_META — lásd a [forráslistát](../04_forrasok/forraslista.md). [Fejlődési témák](../06_fejlodes/altalanos.md).

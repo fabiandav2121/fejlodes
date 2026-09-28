@@ -1,14 +1,5 @@
 # Tevékenységkereső
 
-Itt a kereső nem a Markdown oldalakból dolgozik, hanem a háttérben lévő tevékenység-adatbázisból:
+A 224 ötlet **választható játék vagy hétköznapi tevékenység**, nem mérföldkő vagy fejlesztési program. A kártyákon a v1.7-ben feltárt konkrét probléma és a v1.8-ban elvégzett módosítás is megnézhető. A korábbi auditjelzés a régi szövegre vonatkozik; a jelenlegi használathoz az új **biztonsági feltételt** és a javított leírást olvasd. A „pontosítva” szerkesztői állapot, nem klinikai biztonsági tanúsítvány. A megadott életkor, előkészület és időtartam közelítő ötlet, nem követelmény. A korábbi gyűjteményben sok hivatkozás ötletforrásként (könyv, kereskedelmi játék) szerepel; ezek nem bizonyítják az adott ötlet specifikus hatását. Az egyedi biztonsági utasításokat minden alkalom előtt ellenőrizd.
 
-`data/activities.csv` → `docs/assets/data/activities.json`
-
-<div id="activity-browser">
-  <p>Tevékenységek betöltése...</p>
-</div>
-
-
-
-!!! note "v1.4"
-    A tevékenységkereső jelenleg 224 tevékenységet tölt be a `data/activities.csv` adatbázisból, köztük a Simone Davies Montessori-könyvek alapján hozzáadott új baba-, toddler- és 3–6 éves otthoni adaptációkat.
+<div id="activity-browser"></div>

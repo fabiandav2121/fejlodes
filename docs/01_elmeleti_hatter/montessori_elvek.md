@@ -1,17 +1,7 @@
 # Montessori elvek otthon
 
-A Montessori-szemléletet ebben a tudástárban nem úgy használjuk, hogy minden eszköznek „klasszikus” Montessori-eszköznek kell lennie. Inkább szűrőként működik.
+A Montessori-módszer egészét vizsgáló áttekintés átlagosan kedvező eredményeket talált, ám nem támasztja alá egyetlen meghatározott eszköz fejlődési szükségességét. A gyermek döntési lehetősége és a rendezett környezet pedagógiai lehetőség.
 
-## Gyakorlati elvek
+**Mit jelenthet ez otthon?** Kövesd a gyermek érdeklődését, kínálj biztonságos lehetőségeket és alkalmazkodj a család ritmusához.
 
-- **Kevés, jól kiválasztott tevékenység** legyen elöl.
-- **Valós tevékenységek** előnyben: öntés, törlés, pakolás, növénygondozás, ételkészítés.
-- **Egy tevékenység egy fő nehézséget célozzon.**
-- **A felnőtt bemutat, majd visszahúzódik.**
-- **A hiba a rendszer része**, nem feltétlenül felnőtt beavatkozást igényel.
-- **A rend nem dekoráció**, hanem kognitív és érzelmi támasz.
-
-## Otthoni fordítás
-
-Nem kell minden tantermi eszközt megvenni. Sok elv otthoni tárgyakkal is megvalósítható: kupakbedobás, edényfedő-illesztés, zoknipárosítás, terítés, vízöntés, növénylocsolás, pálcikás tízesrendszer.
-
+**Forrás és bizonyítéki korlát:** MONTESSORI_REVIEW_2023; LILLARD_BOOK — lásd a [forráslistát](../04_forrasok/forraslista.md). [Fejlődési témák](../06_fejlodes/altalanos.md).

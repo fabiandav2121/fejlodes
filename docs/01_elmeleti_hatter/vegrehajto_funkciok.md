@@ -1,11 +1,7 @@
 # Végrehajtó funkciók
 
-A végrehajtó funkciók a figyelem, gátlás, munkamemória és rugalmas gondolkodás rendszerei. Kisgyerekkorban nem feladatlapokkal érdemes fejleszteni, hanem:
+A figyelem, gátlás és rugalmas váltás fokozatosan fejlődik. Egy adott feladat vagy tréning sikere nem bizonyít széles körű, tartós javulást az élet minden területén.
 
-- mozgásos stop-start játékokkal;
-- rutinkártyákkal;
-- rövid társasjátékokkal;
-- főzési és terítési sorrendekkel;
-- várakozást és turn-takinget igénylő közös játékokkal.
+**Mit jelenthet ez otthon?** Kövesd a gyermek érdeklődését, kínálj biztonságos lehetőségeket és alkalmazkodj a család ritmusához.
 
-A cél nem az, hogy a gyerek „korán fegyelmezett” legyen, hanem hogy egyre több külső támaszból tudjon belső szabályozást építeni.
+**Forrás és bizonyítéki korlát:** EF_TRAIN_META_2020 — lásd a [forráslistát](../04_forrasok/forraslista.md). [Fejlődési témák](../06_fejlodes/altalanos.md).

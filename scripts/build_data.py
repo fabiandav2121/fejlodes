@@ -80,6 +80,13 @@ def main():
 
     validate(activities, ["id", "title", "age_range", "area", "location"], "tevékenység")
     validate(recipes, ["id", "title", "stage", "age_min_months", "meal_type", "texture", "ingredients", "steps", "safety_notes"], "recept")
+    validate(sources, ["id", "title", "type"], "forrás")
+    source_ids = {row["id"] for row in sources}
+    for label, records in (("tevékenység", activities), ("recept", recipes)):
+        missing = sorted({sid.strip() for row in records for sid in row.get("source_ids", "").split(";")
+                          if sid.strip() and sid.strip() not in source_ids})
+        if missing:
+            raise SystemExit(f"HIBA: hiányzó forrásazonosítók a {label} adatbázisban: {', '.join(missing)}")
 
     write_json("activities.json", activities)
     write_json("recipes.json", recipes)

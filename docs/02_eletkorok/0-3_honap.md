@@ -1,39 +1,19 @@
-# 0-3 hó
+# 0–3 hónap
 
-## Hol tart nagyjából?
+## Mi fejlődhet ebben az időszakban?
 
-A biztonság, testközelség, ritmus és rövid szenzoros fókusz a legfontosabb.
+A baba a hangokra, arcokra és érintésre figyel, rövid ébrenlétek alatt mozog és jelzésekkel kapcsolódik. Az életkori sáv tájékozódáshoz való, nem határidő: a készségek nem egyszerre és nem minden gyermeknél ugyanabban a sorrendben jelennek meg.
 
-## Fő fókusz
+## Mit jelenthet ez otthon?
 
-Arc, hang, hason fekvés, kontraszt, testtudat.
+Beszélj hozzá, reagálj a jelzéseire; ébren, felügyelet mellett próbáljátok a rövid hason fekvést.
 
-## v1.4 könyvfrissítés
+## Mit próbálhatsz ki?
 
-A v1.4 frissítésben a baba-szakasz erősebb hangsúlyt kapott: tiszteletteljes gondozás, szabad mozgás, kevés inger, ismétlődő hangpontok és mozgásszőnyeg.
+A [tevékenységkereső](../03_tevekenysegek/kereso.md) kor szerinti ötletei opcionálisak. Egy játék, puzzle vagy Montessori-eszköz teljesítése önmagában nem fejlődési mérföldkő; ha a gyermek másban érdeklődőbb, kövesd azt.
 
-## Felnőtt szerep
+## Mikor érdemes segítséget kérni?
 
-Nem kell fejleszteni; kapcsolódni és jól időzített ingereket adni kell.
+Készségvesztés, hallással vagy látással kapcsolatos kétely, illetve tartós szülői aggodalom esetén beszélj a gyermekorvossal. A [fejlődési megfigyelési pontok](../06_fejlodes/variabilitas.md) nem diagnózisok. Csecsemőknél az [alvásbiztonság](../06_fejlodes/alvas.md) különösen fontos.
 
-## Ha csak 5 dolgot csináltok
-
-1. Legyen napi szinten szabad mozgás.
-2. Legyen legalább egy valós practical life jellegű bevonás.
-3. Legyen rövid közös könyvnézegetés vagy beszélgetés.
-4. Legyen választási lehetőség, de kevés opcióval.
-5. Legyen elég ismétlés, ne kelljen mindig új inger.
-
-## Ehhez az életkorhoz tartozó tevékenységek
-
-- **Finommotorika:** 1 tevékenység
-- **Gyakorlati élet:** 1 tevékenység
-- **Kapcsolódás és gondozás:** 2 tevékenység
-- **Nagymozgás:** 2 tevékenység
-- **Nyelv és kapcsolat:** 2 tevékenység
-- **Nyelv és mozgás:** 1 tevékenység
-- **Személyiség és testtudat:** 1 tevékenység
-- **Szenzoros:** 2 tevékenység
-- **Szenzoros és mozgás:** 5 tevékenység
-
-[Nyisd meg a tevékenységkeresőt erre az életkorra szűrve](../03_tevekenysegek/kereso.md?age=0-3%20hó)
+**Források:** `AAP_SLEEP_2022`, `TUMMY_REVIEW_2020`; [`CDC_MILESTONES`](../04_forrasok/forraslista.md). *Szakmai áttekintés: 2026. szeptember 27.*

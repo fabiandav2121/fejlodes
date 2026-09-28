@@ -1,15 +1,7 @@
-# Mozgás és szenzoros fejlődés
+# Mozgás és érzékelés
 
-A kisgyerek gondolkodása erősen testhez kötött. A mozgás nem „levezetés”, hanem tanulási közeg.
+Biztonságos, szabad mozgásra legyen lehetőség. A hason töltött idő ébren és felügyelettel gyakorolható; csecsemőt alváshoz háton helyezzünk el.
 
-## Fontos tevékenységtípusok
+**Mit jelenthet ez otthon?** Kövesd a gyermek érdeklődését, kínálj biztonságos lehetőségeket és alkalmazkodj a család ritmusához.
 
-- hason töltött idő és gurulás;
-- kúszás, mászás, kapaszkodás;
-- hordás, húzás, tolás;
-- dobás, gurítás, célba juttatás;
-- víz, homok, textúrák;
-- építés, pakolás, konténerjáték;
-- 3–6 éves korban finomabb szenzoros diszkrimináció: árnyalat, hang, súly, illat.
-
-A kinti játék önmagában is erős fejlesztő környezet, különösen akkor, ha a felnőtt nem túlszervezi.
+**Forrás és bizonyítéki korlát:** WHO_24H_2019; TUMMY_REVIEW_2020; AAP_SLEEP_2022 — lásd a [forráslistát](../04_forrasok/forraslista.md). [Fejlődési témák](../06_fejlodes/altalanos.md).

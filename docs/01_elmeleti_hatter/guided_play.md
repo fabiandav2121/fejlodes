@@ -1,15 +1,7 @@
 # Guided play
 
-A guided play köztes út a teljesen szabad játék és a direkt tanítás között.
+A felnőtt előkészítheti a helyzetet és kérdezhet, miközben a gyermek választása megmarad. A szisztematikus áttekintés egyes tanulási kimenetekben kedvező eredményt, másoknál bizonytalan különbséget talált.
 
-## Mit jelent otthon?
+**Mit jelenthet ez otthon?** Kövesd a gyermek érdeklődését, kínálj biztonságos lehetőségeket és alkalmazkodj a család ritmusához.
 
-A felnőtt:
-
-- előkészíti a környezetet;
-- kiválaszt néhány jó eszközt;
-- röviden bemutat;
-- kérdez vagy megnevez;
-- de nem veszi át a játék irányítását.
-
-Példa: nem „most megtanuljuk a hosszú-rövid fogalmat”, hanem építés közben megjelenik: „ez hosszabb”, „ez nem fér oda”, „melyik legyen az út vége?”
+**Forrás és bizonyítéki korlát:** GUIDED_PLAY_META — lásd a [forráslistát](../04_forrasok/forraslista.md). [Fejlődési témák](../06_fejlodes/altalanos.md).

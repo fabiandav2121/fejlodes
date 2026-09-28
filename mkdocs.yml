@@ -46,8 +46,26 @@ markdown_extensions:
 
 nav:
   - Kezdőlap: index.md
+  - Fejlődési témák:
+    - Általános fejlődés: 06_fejlodes/altalanos.md
+    - Kognitív fejlődés és utánzás: 06_fejlodes/kognicio.md
+    - Figyelem, önszabályozás és végrehajtó funkciók: 06_fejlodes/figyelem_ef.md
+    - Nyelv, gesztusok és közös figyelem: 06_fejlodes/nyelv.md
+    - Játék és tanulás: 06_fejlodes/jatek.md
+    - Kapcsolat, kötődés és együttszabályozás: 06_fejlodes/kapcsolat.md
+    - Motoros fejlődés: 06_fejlodes/mozgas.md
+    - Autonómia és motiváció: 06_fejlodes/autonomia.md
+    - Korai matematika és térbeli gondolkodás: 06_fejlodes/matematika_ter.md
+    - Alvás és biztonság: 06_fejlodes/alvas.md
+    - Szobatisztaság: 06_fejlodes/szobatisztasag.md
+    - Viselkedés és határok: 06_fejlodes/hatarok.md
+    - Képernyő és ülő tevékenységek: 06_fejlodes/kepernyo.md
+    - Fizikai aktivitás és kültéri játék: 06_fejlodes/kulteri.md
+    - Bölcsőde, óvoda és családi változások: 06_fejlodes/atmenetek.md
+    - Fejlődési variabilitás és szakemberhez fordulás: 06_fejlodes/variabilitas.md
   - Elméleti háttér:
     - Áttekintés: 01_elmeleti_hatter/index.md
+    - Montessori és a bizonyítékok: 01_elmeleti_hatter/montessori_bizonyitek.md
     - Montessori elvek otthon: 01_elmeleti_hatter/montessori_elvek.md
     - Montessori eredeti forrásokból: 01_elmeleti_hatter/montessori_eredeti_forrasok.md
     - Montessori elemi kitekintés: 01_elmeleti_hatter/montessori_elemi_kitekintes.md

@@ -1,41 +1,19 @@
-# 3-6 hó
+# 3–6 hónap
 
-## Hol tart nagyjából?
+## Mi fejlődhet ebben az időszakban?
 
-Egyre több saját mozgás és tárgyak felé fordulás jelenik meg.
+Egyre több hangadás, tárgyak felé nyúlás és változatos testhelyzet jelenhet meg. Az időzítés egyénenként eltér. Az életkori sáv tájékozódáshoz való, nem határidő: a készségek nem egyszerre és nem minden gyermeknél ugyanabban a sorrendben jelennek meg.
 
-## Fő fókusz
+## Mit jelenthet ez otthon?
 
-Nyúlás, fogás, gurulás, tükör, hangok, kendők.
+Legyetek a padlón biztonságos térben; kínálj egyszerű, elérhető tárgyakat és beszélgess a próbálkozásairól.
 
-## v1.4 könyvfrissítés
+## Mit próbálhatsz ki?
 
-A v1.4 frissítésben bekerültek a korai grasping toy, kincses kosár, hangkosár és arcnézős nyelvi kapcsolódás tevékenységek.
+A [tevékenységkereső](../03_tevekenysegek/kereso.md) kor szerinti ötletei opcionálisak. Egy játék, puzzle vagy Montessori-eszköz teljesítése önmagában nem fejlődési mérföldkő; ha a gyermek másban érdeklődőbb, kövesd azt.
 
-## Felnőtt szerep
+## Mikor érdemes segítséget kérni?
 
-A választás még mikro-választás: melyik tárgy felé fordul.
+Készségvesztés, hallással vagy látással kapcsolatos kétely, illetve tartós szülői aggodalom esetén beszélj a gyermekorvossal. A [fejlődési megfigyelési pontok](../06_fejlodes/variabilitas.md) nem diagnózisok. Csecsemőknél az [alvásbiztonság](../06_fejlodes/alvas.md) különösen fontos.
 
-## Ha csak 5 dolgot csináltok
-
-1. Legyen napi szinten szabad mozgás.
-2. Legyen legalább egy valós practical life jellegű bevonás.
-3. Legyen rövid közös könyvnézegetés vagy beszélgetés.
-4. Legyen választási lehetőség, de kevés opcióval.
-5. Legyen elég ismétlés, ne kelljen mindig új inger.
-
-## Ehhez az életkorhoz tartozó tevékenységek
-
-- **Finommotorika:** 2 tevékenység
-- **Nagymozgás:** 3 tevékenység
-- **Nyelv:** 1 tevékenység
-- **Nyelv és kapcsolódás:** 1 tevékenység
-- **Szem-kéz koordináció:** 1 tevékenység
-- **Személyiség:** 1 tevékenység
-- **Személyiség és kapcsolat:** 1 tevékenység
-- **Személyiség és nyelv:** 1 tevékenység
-- **Szenzoros:** 3 tevékenység
-- **Szenzoros és mozgás:** 1 tevékenység
-- **Zene és hallás:** 1 tevékenység
-
-[Nyisd meg a tevékenységkeresőt erre az életkorra szűrve](../03_tevekenysegek/kereso.md?age=3-6%20hó)
+**Források:** `WHO_24H_2019`, `CDC_MILESTONES`; [`CDC_MILESTONES`](../04_forrasok/forraslista.md). *Szakmai áttekintés: 2026. szeptember 27.*
