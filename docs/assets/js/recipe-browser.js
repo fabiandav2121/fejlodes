@@ -98,7 +98,7 @@
       addOpts("rmeal", uniq("meal_type"));
       addOpts("rtexture", uniq("texture"));
       addOpts("rdiet", uniq("diet"));
-      const allergens = [...new Set(rows.flatMap(r => String(r.allergens||"").split(";").map(x=>x.trim()).filter(x=>x && x!=="nincs")))].sort((a,b)=>a.localeCompare(b,"hu"));
+      const allergens = [...new Set(rows.flatMap(r => String(r.allergens||"").split(";").map(x=>x.trim()).filter(x=>x && x!=="nincs" && x!=="nincs jelölt fő allergén")))].sort((a,b)=>a.localeCompare(b,"hu"));
       addOpts("rexclude", allergens);
       const tags = [...new Set(rows.flatMap(r => String(r.evidence_tags||"").split(";").map(x=>x.trim()).filter(Boolean)))].sort((a,b)=>a.localeCompare(b,"hu"));
       addOpts("rtag", tags);
@@ -134,6 +134,7 @@
             <p><strong>Táplálkozási fókusz:</strong> ${esc(r.nutrition_focus)}</p>
             <p><strong>Vasforrás:</strong> ${esc(r.iron_source)} · <strong>Fehérje:</strong> ${esc(r.protein_source)}</p>
             <p><strong>Allergének:</strong> ${esc(r.allergens)} · <strong>Hozzáadott cukor:</strong> ${esc(r.added_sugar)} · <strong>Hozzáadott só:</strong> ${esc(r.added_salt)}</p>
+            <p><strong>Allergénjelölés értelmezése:</strong> ${esc(r.allergen_notes)}</p>
             <details open><summary>Hozzávalók és elkészítés</summary>
               <ul>${list(r.ingredients).map(x=>`<li>${esc(x)}</li>`).join("")}</ul>
               <p>${esc(r.steps)}</p>

@@ -522,6 +522,30 @@ URL: https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Sex
 
 Általános, szülőknek szóló gyermekvédelmi útmutató; nem klinikai hatásvizsgálat. A projektben eredetileg nem szerepelt; a kapcsolódó kártya pontosításához ellenőrizve.
 
+## NHS_ALLERGY
+
+**NHS: Food allergies in babies and young children**  
+Típus: `Hivatalos egészségügyi tájékoztató`  
+URL: https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/  
+
+A receptellenőrzés kiegészítő biztonsági forrása; ellenőrizve: 2026-09-28. Nem az egyedi recept tápértékének igazolása.
+
+## CDC_FOOD_AVOID
+
+**CDC: Foods and Drinks to Avoid or Limit**  
+Típus: `Hivatalos egészségügyi tájékoztató`  
+URL: https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html  
+
+A receptellenőrzés kiegészítő biztonsági forrása; ellenőrizve: 2026-09-28. Nem az egyedi recept tápértékének igazolása.
+
+## NHS_FOOD_AVOID
+
+**NHS: Foods to avoid giving babies and young children**  
+Típus: `Hivatalos egészségügyi tájékoztató`  
+URL: https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/  
+
+A receptellenőrzés kiegészítő biztonsági forrása; ellenőrizve: 2026-09-28. Nem az egyedi recept tápértékének igazolása.
+
 ## Megjegyzés a feltöltött könyvekhez
 
 A feltöltött könyvek teljes fájljai nem kerülnek a public GitHub repóba. A tudástárban csak saját összefoglalók, adaptációk és bibliográfiai hivatkozások szerepelnek.

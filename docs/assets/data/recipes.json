@@ -14,7 +14,7 @@
     "nutrition_focus": "Hüvelyesből származó vas, fehérje és energiadúsítás olajjal.",
     "iron_source": "vöröslencse",
     "protein_source": "vöröslencse",
-    "allergens": "nincs",
+    "allergens": "nincs jelölt fő allergén",
     "fruit_veg": "sütőtök",
     "added_sugar": "nincs",
     "added_salt": "nincs",
@@ -24,8 +24,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vasfókusz; hüvelyes; gyors",
-    "source_ids": "WHO_CF_2023;WHO_PLANT_REVIEW;ESPGHAN_CF_2017",
-    "source_urls": "https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://pubmed.ncbi.nlm.nih.gov/28027215/"
+    "source_ids": "WHO_CF_2023;WHO_PLANT_REVIEW;ESPGHAN_CF_2017;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://pubmed.ncbi.nlm.nih.gov/28027215/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R002",
@@ -42,7 +44,7 @@
     "nutrition_focus": "Jól hasznosuló hemvas, fehérje és béta-karotin.",
     "iron_source": "marhahús",
     "protein_source": "marhahús",
-    "allergens": "nincs",
+    "allergens": "nincs jelölt fő allergén",
     "fruit_veg": "édesburgonya, sárgarépa",
     "added_sugar": "nincs",
     "added_salt": "nincs",
@@ -52,8 +54,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vasfókusz; hús; fagyasztható",
-    "source_ids": "WHO_CF_2023;WHO_ASF_REVIEW;ESPGHAN_CF_2017",
-    "source_urls": "https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://pubmed.ncbi.nlm.nih.gov/28027215/"
+    "source_ids": "WHO_CF_2023;WHO_ASF_REVIEW;ESPGHAN_CF_2017;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://pubmed.ncbi.nlm.nih.gov/28027215/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R003",
@@ -70,7 +74,7 @@
     "nutrition_focus": "Fehérje, vas és C-vitaminban gazdag zöldség kombinációja.",
     "iron_source": "csirkehús",
     "protein_source": "csirkehús",
-    "allergens": "nincs",
+    "allergens": "nincs jelölt fő allergén",
     "fruit_veg": "brokkoli, burgonya",
     "added_sugar": "nincs",
     "added_salt": "nincs",
@@ -80,8 +84,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "fehérje; zöldség; batch",
-    "source_ids": "WHO_CF_2023;WHO_ASF_REVIEW;WHO_IYCF",
-    "source_urls": "https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding"
+    "source_ids": "WHO_CF_2023;WHO_ASF_REVIEW;WHO_IYCF;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R004",
@@ -98,18 +104,20 @@
     "nutrition_focus": "Tojásból származó fehérje, vas és kolin; zab és gyümölcs.",
     "iron_source": "tojás, zab",
     "protein_source": "tojás",
-    "allergens": "tojás; glutén",
+    "allergens": "tojás; glutén; tej; szója",
     "fruit_veg": "körte",
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Sűrű, kanálon maradó állag; önetető kanálhoz is megfelelő.",
-    "safety_notes": "A tojás teljesen hőkezelt legyen. Első allergénbevezetésnél kis mennyiséggel, délelőtt és megfigyelhető időszakban kínáld.",
+    "safety_notes": "A tojás teljesen hőkezelt legyen. Első allergénbevezetésnél kis mennyiséggel, délelőtt és megfigyelhető időszakban kínáld. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családi adagba fahéj, vanília, diófélék őrleménye csak életkornak megfelelően és biztonságos formában kerülhet.",
     "freezer_ok": "nem",
     "batch_ok": "nem",
     "evidence_tags": "allergén; tojás; reggeli; vasfókusz",
-    "source_ids": "WHO_CF_2023;ESPGHAN_CF_2017;WHO_RF_REVIEW",
-    "source_urls": "https://www.who.int/publications/i/item/9789240081864;https://pubmed.ncbi.nlm.nih.gov/28027215/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3"
+    "source_ids": "WHO_CF_2023;ESPGHAN_CF_2017;WHO_RF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://www.who.int/publications/i/item/9789240081864;https://pubmed.ncbi.nlm.nih.gov/28027215/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást. Tápszer használatakor tej és/vagy szója is előfordulhat a terméktől függően. A vizes vagy anyatejes változat nem jelent automatikusan ilyen hozzáadott allergént.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R005",
@@ -136,8 +144,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "hal; omega-3; vasfókusz; allergén",
-    "source_ids": "WHO_ASF_REVIEW;ESPGHAN_CF_2017;WHO_CF_2023",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://pubmed.ncbi.nlm.nih.gov/28027215/;https://www.who.int/publications/i/item/9789240081864"
+    "source_ids": "WHO_ASF_REVIEW;ESPGHAN_CF_2017;WHO_CF_2023;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://pubmed.ncbi.nlm.nih.gov/28027215/;https://www.who.int/publications/i/item/9789240081864;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R006",
@@ -149,23 +159,25 @@
     "diet": "vegán",
     "prep_min": "5",
     "cook_min": "15",
-    "ingredients": "100 g főtt, sótlan fehérbab | 100 g cukkini | 1 tk olívaolaj | citromlé néhány csepp",
+    "ingredients": "100 g teljesen megfőtt, sótlan fehérbab (például konzerv) | 100 g cukkini | 1 tk olívaolaj | citromlé néhány csepp",
     "steps": "A cukkinit párold puhára. A babot öblítsd át, majd a cukkinivel és olajjal törd simára. Kevés vízzel állítsd be a sűrűséget.",
     "nutrition_focus": "Növényi fehérje, vas és rost; C-vitaminos kiegészítés.",
     "iron_source": "fehérbab",
     "protein_source": "fehérbab",
-    "allergens": "nincs",
+    "allergens": "nincs jelölt fő allergén",
     "fruit_veg": "cukkini",
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Teljesen sima vagy finoman tört; a bab héja ne maradjon nagy, száraz darabokban.",
-    "safety_notes": "Konzervbab csak sótlan vagy alaposan leöblített változatban. Puffadás esetén kisebb adaggal kezdj.",
+    "safety_notes": "Konzervbab csak sótlan vagy alaposan leöblített változatban. Puffadás esetén kisebb adaggal kezdj. Nyers vagy félig főtt babot ne használj; a szárazbab elkészítésénél kövesd a csomagolás áztatási és forralási utasítását.",
     "family_adaptation": "A családnak fokhagymás-citromos mártogatós lehet, kenyérrel és sült zöldséggel.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "hüvelyes; vasfókusz; vegán",
-    "source_ids": "WHO_PLANT_REVIEW;WHO_CF_2023;WHO_RF_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3"
+    "source_ids": "WHO_PLANT_REVIEW;WHO_CF_2023;WHO_RF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R007",
@@ -187,13 +199,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Kezdetben simább kása, később apró puha szemcsékkel.",
-    "safety_notes": "Csak pasztőrözött tejterméket használj. A szilvamagot maradéktalanul távolítsd el.",
+    "safety_notes": "Csak pasztőrözött tejterméket használj. A szilvamagot maradéktalanul távolítsd el. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz.",
     "family_adaptation": "A családi adagba fahéj, pirított magőrlemény és több gyümölcs kerülhet.",
     "freezer_ok": "nem",
     "batch_ok": "igen",
     "evidence_tags": "reggeli; tej; gyümölcs",
-    "source_ids": "WHO_CF_2023;WHO_IYCF;WHO_PLANT_REVIEW",
-    "source_urls": "https://www.who.int/publications/i/item/9789240081864;https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3"
+    "source_ids": "WHO_CF_2023;WHO_IYCF;WHO_PLANT_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://www.who.int/publications/i/item/9789240081864;https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R008",
@@ -220,8 +234,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "allergén; szezám; hüvelyes; vasfókusz",
-    "source_ids": "WHO_PLANT_REVIEW;ESPGHAN_CF_2017;WHO_RF_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://pubmed.ncbi.nlm.nih.gov/28027215/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3"
+    "source_ids": "WHO_PLANT_REVIEW;ESPGHAN_CF_2017;WHO_RF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://pubmed.ncbi.nlm.nih.gov/28027215/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R009",
@@ -243,13 +259,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Krémes, nem ragadós; előtöltött kanálról is adható.",
-    "safety_notes": "Egész vagy darabos mogyorót tilos adni. Súlyos ekcéma, ismert allergia vagy korábbi reakció esetén előzetes orvosi egyeztetés szükséges.",
+    "safety_notes": "Egész vagy darabos mogyorót tilos adni. Súlyos ekcéma, ismert allergia vagy korábbi reakció esetén előzetes orvosi egyeztetés szükséges. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz.",
     "family_adaptation": "A családi adagba fahéj és több gyümölcs kerülhet; hozzáadott cukor nem szükséges.",
     "freezer_ok": "nem",
     "batch_ok": "nem",
     "evidence_tags": "allergén; földimogyoró; reggeli; gyors",
-    "source_ids": "NIAID_PEANUT_2017;LEAP_2015;WHO_RF_REVIEW",
-    "source_urls": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5217645/;https://pubmed.ncbi.nlm.nih.gov/25705822/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3"
+    "source_ids": "NIAID_PEANUT_2017;LEAP_2015;WHO_RF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5217645/;https://pubmed.ncbi.nlm.nih.gov/25705822/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R010",
@@ -266,18 +284,20 @@
     "nutrition_focus": "Fehérje, vas, kolin és energiadús zsiradék.",
     "iron_source": "tojás",
     "protein_source": "tojás",
-    "allergens": "tojás; tej opcionálisan; glutén",
+    "allergens": "tojás; tej; glutén",
     "fruit_veg": "avokádó",
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "A kenyér legyen puha, ne száraz vagy kemény héjú; a krém ne legyen ragadós.",
-    "safety_notes": "A tojás teljesen hőkezelt legyen. Kenyérből alacsony sótartalmút válassz, és a falat méretét a gyermek készségéhez igazítsd.",
+    "safety_notes": "A tojás teljesen hőkezelt legyen. Kenyérből alacsony sótartalmút válassz, és a falat méretét a gyermek készségéhez igazítsd. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családnak citrommal, borssal, zöldfűszerrel szendvicskrémként tálalható.",
     "freezer_ok": "nem",
     "batch_ok": "nem",
     "evidence_tags": "tojás; önetetés; allergén",
-    "source_ids": "ESPGHAN_CF_2017;WHO_RF_REVIEW;BLISS_PROTOCOL",
-    "source_urls": "https://pubmed.ncbi.nlm.nih.gov/28027215/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-015-0466-8"
+    "source_ids": "ESPGHAN_CF_2017;WHO_RF_REVIEW;BLISS_PROTOCOL;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://pubmed.ncbi.nlm.nih.gov/28027215/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-015-0466-8;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. Az eredeti választható jelölés: tojás; tej opcionálisan; glutén.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R011",
@@ -304,8 +324,10 @@
     "freezer_ok": "nem",
     "batch_ok": "nem",
     "evidence_tags": "önálló evés; szezám; zöldség; vasfókusz",
-    "source_ids": "WHO_RF_REVIEW;BLISS_PROTOCOL;CDC_CHOKING;WHO_PLANT_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-015-0466-8;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3"
+    "source_ids": "WHO_RF_REVIEW;BLISS_PROTOCOL;CDC_CHOKING;WHO_PLANT_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-015-0466-8;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R012",
@@ -332,8 +354,10 @@
     "freezer_ok": "nem",
     "batch_ok": "igen",
     "evidence_tags": "reggeli; cukormentes; gyors",
-    "source_ids": "WHO_UNHEALTHY_REVIEW;WHO_RF_REVIEW;CDC_CHOKING",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html"
+    "source_ids": "WHO_UNHEALTHY_REVIEW;WHO_RF_REVIEW;CDC_CHOKING;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R013",
@@ -350,7 +374,7 @@
     "nutrition_focus": "Hemvas, fehérje, energia és zöldség.",
     "iron_source": "marhahús",
     "protein_source": "marhahús",
-    "allergens": "nincs",
+    "allergens": "nincs jelölt fő allergén",
     "fruit_veg": "paradicsom, cukkini",
     "added_sugar": "nincs",
     "added_salt": "nincs",
@@ -360,8 +384,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vasfókusz; családi étel; egytál",
-    "source_ids": "WHO_ASF_REVIEW;WHO_CF_2023;WHO_RF_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3"
+    "source_ids": "WHO_ASF_REVIEW;WHO_CF_2023;WHO_RF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R014",
@@ -383,13 +409,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Puha, kézzel könnyen szétnyomható; ne legyen kérges vagy száraz.",
-    "safety_notes": "A hús teljesen süljön át. Kínálás előtt ellenőrizd, hogy a rúd nem kemény és nem morzsálódik száraz darabokra.",
+    "safety_notes": "A hús teljesen süljön át. Kínálás előtt ellenőrizd, hogy a rúd nem kemény és nem morzsálódik száraz darabokra. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családi adaghoz fűszerek, fokhagyma és joghurtos mártogatós adható.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "finger food; hús; batch; allergén",
-    "source_ids": "WHO_RF_REVIEW;BLISS_PROTOCOL;CDC_CHOKING;WHO_ASF_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-015-0466-8;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3"
+    "source_ids": "WHO_RF_REVIEW;BLISS_PROTOCOL;CDC_CHOKING;WHO_ASF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-015-0466-8;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R015",
@@ -411,13 +439,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Belül legyen puha, kívül csak enyhén szilárd; csíkokra vágva könnyebb megfogni.",
-    "safety_notes": "A lazac szálkamentességét kézzel is ellenőrizd. Ne süsd szárazra.",
+    "safety_notes": "A lazac szálkamentességét kézzel is ellenőrizd. Ne süsd szárazra. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családnak salátával vagy joghurtos-kapros szósszal tálalható.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "hal; omega-3; finger food; fagyasztható",
-    "source_ids": "WHO_ASF_REVIEW;BLISS_PROTOCOL;CDC_CHOKING",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-015-0466-8;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html"
+    "source_ids": "WHO_ASF_REVIEW;BLISS_PROTOCOL;CDC_CHOKING;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-015-0466-8;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R016",
@@ -434,7 +464,7 @@
     "nutrition_focus": "Növényi vas, fehérje, gabona és zöldség egytálban.",
     "iron_source": "vöröslencse",
     "protein_source": "vöröslencse",
-    "allergens": "glutén",
+    "allergens": "glutén; tojás",
     "fruit_veg": "paradicsom, sárgarépa",
     "added_sugar": "nincs",
     "added_salt": "nincs",
@@ -444,8 +474,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vegán; vasfókusz; családi étel",
-    "source_ids": "WHO_PLANT_REVIEW;WHO_CF_2023;WHO_RF_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3"
+    "source_ids": "WHO_PLANT_REVIEW;WHO_CF_2023;WHO_RF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A tészta tojást is tartalmazhat: tojásmentes változathoz ellenőrzött tojásmentes tésztát válassz.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R017",
@@ -467,13 +499,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Puha, nedves belsejű, könnyen morzsolható, de nem száraz.",
-    "safety_notes": "A tojás teljesen süljön át. A zöldségdarabok legyenek aprók és puhák.",
+    "safety_notes": "A tojás teljesen süljön át. A zöldségdarabok legyenek aprók és puhák. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "Felnőtteknek feta, bors, zöldfűszer és több sajt adható.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "tojás; finger food; batch; reggeli",
-    "source_ids": "WHO_ASF_REVIEW;WHO_RF_REVIEW;BLISS_PROTOCOL",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-015-0466-8"
+    "source_ids": "WHO_ASF_REVIEW;WHO_RF_REVIEW;BLISS_PROTOCOL;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-015-0466-8;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R018",
@@ -500,8 +534,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vegán; vasfókusz; finger food; fagyasztható",
-    "source_ids": "WHO_PLANT_REVIEW;WHO_RF_REVIEW;CDC_CHOKING",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html"
+    "source_ids": "WHO_PLANT_REVIEW;WHO_RF_REVIEW;CDC_CHOKING;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R019",
@@ -523,13 +559,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Puha, nem gumis; hosszú csíkokra vagy kis darabokra vágható.",
-    "safety_notes": "A belseje süljön át. Ne adj keményre pirult, száraz széleket.",
+    "safety_notes": "A belseje süljön át. Ne adj keményre pirult, száraz széleket. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családnak joghurttal, gyümölccsel és fahéjjal tálalható.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "cukormentes; reggeli; finger food",
-    "source_ids": "WHO_UNHEALTHY_REVIEW;WHO_RF_REVIEW;WHO_ASF_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3"
+    "source_ids": "WHO_UNHEALTHY_REVIEW;WHO_RF_REVIEW;WHO_ASF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R020",
@@ -551,13 +589,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "A körte villával könnyen szétnyomható legyen; a zab ne legyen ropogós, kemény.",
-    "safety_notes": "A körtemagot távolítsd el. Kemény morzsát vagy egész magvakat ne adj.",
+    "safety_notes": "A körtemagot távolítsd el. Kemény morzsát vagy egész magvakat ne adj. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz.",
     "family_adaptation": "A családnak dióőrleménnyel és több fűszerrel készülhet.",
     "freezer_ok": "nem",
     "batch_ok": "nem",
     "evidence_tags": "cukormentes; gyümölcs; uzsonna",
-    "source_ids": "WHO_UNHEALTHY_REVIEW;CDC_CHOKING;WHO_RF_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3"
+    "source_ids": "WHO_UNHEALTHY_REVIEW;CDC_CHOKING;WHO_RF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R021",
@@ -584,8 +624,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "családi étel; hús; gyors",
-    "source_ids": "WHO_ASF_REVIEW;WHO_CF_2023;WHO_RF_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3"
+    "source_ids": "WHO_ASF_REVIEW;WHO_CF_2023;WHO_RF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.who.int/publications/i/item/9789240081864;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R022",
@@ -602,18 +644,20 @@
     "nutrition_focus": "Tojásfehérje, vas, kolin és zöldség.",
     "iron_source": "tojás",
     "protein_source": "tojás",
-    "allergens": "tojás; tej opcionálisan",
+    "allergens": "tojás; tej",
     "fruit_veg": "brokkoli",
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Puha, hajlítható csíkok; ne legyen gumis vagy kiszáradt.",
-    "safety_notes": "A tojás teljesen süljön át. A brokkolidarabok legyenek kicsik és puhák.",
+    "safety_notes": "A tojás teljesen süljön át. A brokkolidarabok legyenek kicsik és puhák. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családnak sajttal, borssal és salátával tálalható.",
     "freezer_ok": "nem",
     "batch_ok": "nem",
     "evidence_tags": "tojás; finger food; gyors",
-    "source_ids": "WHO_ASF_REVIEW;WHO_RF_REVIEW;BLISS_PROTOCOL",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-015-0466-8"
+    "source_ids": "WHO_ASF_REVIEW;WHO_RF_REVIEW;BLISS_PROTOCOL;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-015-0466-8;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. Az eredeti választható jelölés: tojás; tej opcionálisan.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R023",
@@ -625,7 +669,7 @@
     "diet": "vegán",
     "prep_min": "7",
     "cook_min": "5",
-    "ingredients": "80 g főtt fekete- vagy vörösbab | 1/2 avokádó | néhány csepp lime | puha, alacsony sótartalmú tortilla",
+    "ingredients": "80 g teljesen megfőtt fekete- vagy vörösbab (például konzerv) | 1/2 avokádó | néhány csepp lime | puha, alacsony sótartalmú tortilla",
     "steps": "A babot és avokádót törd simára. Vékonyan kend puha tortillacsíkra, vagy előtöltött kanálon kínáld.",
     "nutrition_focus": "Növényi vas, fehérje, energia és önálló evés.",
     "iron_source": "bab",
@@ -635,13 +679,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "A krém legyen nedves, a tortilla puha és vékony; ne legyen rágós vagy száraz.",
-    "safety_notes": "A babhéjat törd szét. Tortillából ne adj nagy, összegyűrődő vagy kemény darabot.",
+    "safety_notes": "A babhéjat törd szét. Tortillából ne adj nagy, összegyűrődő vagy kemény darabot. Nyers vagy félig főtt babot ne használj; a szárazbab elkészítésénél kövesd a csomagolás áztatási és forralási utasítását.",
     "family_adaptation": "A családnak paradicsommal, korianderrel és fűszerekkel quesadilla/taco alap.",
     "freezer_ok": "nem",
     "batch_ok": "nem",
     "evidence_tags": "vegán; vasfókusz; gyors; családi étel",
-    "source_ids": "WHO_PLANT_REVIEW;WHO_RF_REVIEW;CDC_CHOKING",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html"
+    "source_ids": "WHO_PLANT_REVIEW;WHO_RF_REVIEW;CDC_CHOKING;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R024",
@@ -668,8 +714,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "finger food; vegán; batch",
-    "source_ids": "WHO_RF_REVIEW;CDC_CHOKING;WHO_PLANT_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3"
+    "source_ids": "WHO_RF_REVIEW;CDC_CHOKING;WHO_PLANT_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R025",
@@ -686,7 +734,7 @@
     "nutrition_focus": "Növényi vas, fehérje, rost és családi egytálétel.",
     "iron_source": "vöröslencse",
     "protein_source": "vöröslencse",
-    "allergens": "glutén",
+    "allergens": "glutén; tojás",
     "fruit_veg": "paradicsom, sárgarépa, cukkini",
     "added_sugar": "nincs",
     "added_salt": "nincs",
@@ -696,8 +744,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vegán; vasfókusz; családi étel; fagyasztható",
-    "source_ids": "WHO_PLANT_REVIEW;WHO_CF_2023;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://www.who.int/publications/i/item/9789240081864;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_PLANT_REVIEW;WHO_CF_2023;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://www.who.int/publications/i/item/9789240081864;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A tészta tojást is tartalmazhat: tojásmentes változathoz ellenőrzött tojásmentes tésztát válassz.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R026",
@@ -714,7 +764,7 @@
     "nutrition_focus": "Hemvas, fehérje, zöldség és könnyen alakítható textúra.",
     "iron_source": "marhahús",
     "protein_source": "marhahús",
-    "allergens": "nincs",
+    "allergens": "nincs jelölt fő allergén",
     "fruit_veg": "sárgarépa, cukkini, paradicsom",
     "added_sugar": "nincs",
     "added_salt": "nincs",
@@ -724,8 +774,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vasfókusz; hús; családi étel",
-    "source_ids": "WHO_ASF_REVIEW;WHO_CF_2023;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.who.int/publications/i/item/9789240081864;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_ASF_REVIEW;WHO_CF_2023;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.who.int/publications/i/item/9789240081864;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R027",
@@ -752,8 +804,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "családi étel; batch; hús",
-    "source_ids": "WHO_ASF_REVIEW;WHO_RF_REVIEW;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_ASF_REVIEW;WHO_RF_REVIEW;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R028",
@@ -770,18 +824,20 @@
     "nutrition_focus": "Omega-3, fehérje, vas és zöldség.",
     "iron_source": "lazac, borsó",
     "protein_source": "lazac, joghurt",
-    "allergens": "hal; tej; glutén",
+    "allergens": "hal; tej; glutén; tojás",
     "fruit_veg": "zöldborsó",
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "A tészta legyen puha, a borsót szükség szerint törd meg.",
-    "safety_notes": "A hal szálkamentes legyen. A joghurtot ne forrald hosszan; csak pasztőrözött terméket használj.",
+    "safety_notes": "A hal szálkamentes legyen. A joghurtot ne forrald hosszan; csak pasztőrözött terméket használj. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz.",
     "family_adaptation": "A felnőtt adaghoz citrom, fokhagyma, parmezán és bors kerülhet.",
     "freezer_ok": "nem",
     "batch_ok": "igen",
     "evidence_tags": "hal; omega-3; családi étel",
-    "source_ids": "WHO_ASF_REVIEW;FAMILY_MEALS_META;WHO_RF_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3"
+    "source_ids": "WHO_ASF_REVIEW;FAMILY_MEALS_META;WHO_RF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A tészta tojást is tartalmazhat: tojásmentes változathoz ellenőrzött tojásmentes tésztát válassz.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R029",
@@ -803,13 +859,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "A galuska legyen puha, kis méretű; szükség szerint vágd félbe.",
-    "safety_notes": "A belseje főjön át. Nagy, rágós vagy gumis gombócokat ne adj.",
+    "safety_notes": "A belseje főjön át. Nagy, rágós vagy gumis gombócokat ne adj. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családnak zsályás vajjal vagy fokhagymás paradicsomszósszal tálalható.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vegetáriánus; családi étel; vasfókusz",
-    "source_ids": "WHO_ASF_REVIEW;WHO_RF_REVIEW;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_ASF_REVIEW;WHO_RF_REVIEW;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R030",
@@ -831,13 +889,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Belül nedves és puha, kívül ne legyen kemény kéreg.",
-    "safety_notes": "Ne süsd szárazra. Nagy, vastag fasírt helyett lapos korongot készíts.",
+    "safety_notes": "Ne süsd szárazra. Nagy, vastag fasírt helyett lapos korongot készíts. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családi adaghoz feta, fokhagyma és fűszerek adhatók.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "finger food; zöldség; batch",
-    "source_ids": "WHO_RF_REVIEW;WHO_UNHEALTHY_REVIEW;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_RF_REVIEW;WHO_UNHEALTHY_REVIEW;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R031",
@@ -859,13 +919,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "A borsót 12–18 hónapos korban szükség szerint törd meg; a rizs ne legyen száraz.",
-    "safety_notes": "A tojás teljesen süljön át. Egész, kemény borsószemet csak akkor adj, ha puha és a gyermek jól kezeli.",
+    "safety_notes": "A tojás teljesen süljön át. A borsót főzd puhára és a gyermek készségéhez igazítva nyomd szét; kemény borsószemet ne kínálj. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A felnőtt adaghoz szójaszósz csak utólag, külön tányéron kerüljön.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "tojás; gyors; családi étel",
-    "source_ids": "WHO_ASF_REVIEW;WHO_RF_REVIEW;CDC_CHOKING",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html"
+    "source_ids": "WHO_ASF_REVIEW;WHO_RF_REVIEW;CDC_CHOKING;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R032",
@@ -882,7 +944,7 @@
     "nutrition_focus": "Növényi vas, fehérje, zöldség és családi egytál.",
     "iron_source": "lencse",
     "protein_source": "lencse",
-    "allergens": "tej opcionálisan",
+    "allergens": "tej",
     "fruit_veg": "sárgarépa, cukkini, paradicsom, burgonya",
     "added_sugar": "nincs",
     "added_salt": "nincs",
@@ -892,8 +954,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vasfókusz; vegetáriánus; fagyasztható; családi étel",
-    "source_ids": "WHO_PLANT_REVIEW;WHO_CF_2023;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://www.who.int/publications/i/item/9789240081864;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_PLANT_REVIEW;WHO_CF_2023;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://www.who.int/publications/i/item/9789240081864;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. Az eredeti választható jelölés: tej opcionálisan.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R033",
@@ -915,13 +979,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Puha, nem száraz és nem kemény szélű.",
-    "safety_notes": "A gofri belseje süljön át. Kemény, ropogós részeket vágd le kisebb gyermeknél.",
+    "safety_notes": "A gofri belseje süljön át. Kemény, ropogós részeket vágd le kisebb gyermeknél. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családnak friss gyümölccsel, joghurttal és magkrémmel tálalható.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "cukormentes; reggeli; batch; családi étel",
-    "source_ids": "WHO_UNHEALTHY_REVIEW;WHO_RF_REVIEW;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_UNHEALTHY_REVIEW;WHO_RF_REVIEW;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R034",
@@ -943,13 +1009,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Puha, szaftos kockákra vágd; ne legyen száraz vagy morzsálódó.",
-    "safety_notes": "A meggymagokat gondosan távolítsd el. A sütemény közepe süljön át, majd teljesen hűljön ki.",
+    "safety_notes": "A meggymagokat gondosan távolítsd el. A sütemény közepe süljön át, majd teljesen hűljön ki. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családnak vaníliával és citromhéjjal ízesíthető; porcukor nem szükséges.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "cukormentes; túró; meggy; batch",
-    "source_ids": "WHO_UNHEALTHY_REVIEW;WHO_RF_REVIEW;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_UNHEALTHY_REVIEW;WHO_RF_REVIEW;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R035",
@@ -971,13 +1039,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Puha és nedves; ne legyen nagy, száraz morzsa.",
-    "safety_notes": "A sütőpor nátriumot tartalmazhat, ezért ne használj túl sokat. A muffin belseje süljön át.",
+    "safety_notes": "A sütőpor nátriumot tartalmazhat, ezért ne használj túl sokat. A muffin belseje süljön át. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családi adaghoz áfonya, fahéj vagy dióőrlemény adható.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "cukormentes; batch; uzsonna",
-    "source_ids": "WHO_UNHEALTHY_REVIEW;WHO_RF_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3"
+    "source_ids": "WHO_UNHEALTHY_REVIEW;WHO_RF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R036",
@@ -1004,8 +1074,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vegán; vasfókusz; szendvics; gyors",
-    "source_ids": "WHO_PLANT_REVIEW;WHO_RF_REVIEW;WHO_UNHEALTHY_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3"
+    "source_ids": "WHO_PLANT_REVIEW;WHO_RF_REVIEW;WHO_UNHEALTHY_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R037",
@@ -1027,13 +1099,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Lapos, puha, nedves falatok; ne legyen gumis vagy kérges.",
-    "safety_notes": "A sajt sótartalma miatt kis mennyiséget használj. A brokkoli legyen teljesen puha.",
+    "safety_notes": "A sajt sótartalma miatt kis mennyiséget használj. A brokkoli legyen teljesen puha. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családnak mártogatóssal, salátával vagy köretként tálalható.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "finger food; zöldség; batch",
-    "source_ids": "WHO_RF_REVIEW;WHO_UNHEALTHY_REVIEW;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_RF_REVIEW;WHO_UNHEALTHY_REVIEW;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R038",
@@ -1055,13 +1129,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "A húsgombóc legyen puha és szükség szerint félbevágott; a főzelék ne legyen túl sűrű.",
-    "safety_notes": "A gombóc teljesen süljön/főjön át. Ne formázz kemény, kerek, nagy golyókat.",
+    "safety_notes": "A gombóc teljesen süljön/főjön át. Ne formázz kemény, kerek, nagy golyókat. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családi adag külön sózható és fűszerezhető; ecetet csak a felnőtt tányéron adj.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "családi étel; hús; magyaros",
-    "source_ids": "WHO_ASF_REVIEW;CDC_CHOKING;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_ASF_REVIEW;CDC_CHOKING;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R039",
@@ -1088,8 +1164,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "családi étel; hús; zöldség",
-    "source_ids": "FAMILY_MEALS_META;WHO_RF_REVIEW;WHO_ASF_REVIEW",
-    "source_urls": "https://pubmed.ncbi.nlm.nih.gov/29369410/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3"
+    "source_ids": "FAMILY_MEALS_META;WHO_RF_REVIEW;WHO_ASF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://pubmed.ncbi.nlm.nih.gov/29369410/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R040",
@@ -1101,23 +1179,25 @@
     "diet": "mindenevő",
     "prep_min": "10",
     "cook_min": "20",
-    "ingredients": "200 g fehér húsú hal vagy lazac | 250 g paradicsompassata | 160 g tészta | 1 cukkini | olaj",
+    "ingredients": "200 g tőkehal vagy lazac | 250 g paradicsompassata | 160 g tészta | 1 cukkini | olaj",
     "steps": "A halat süsd át, szálkázd ki. A cukkinit párold a paradicsomszószban, majd keverd hozzá a halat és a tésztát.",
     "nutrition_focus": "Hal, fehérje, omega-3 a választott halfajtától függően, zöldség.",
     "iron_source": "hal",
     "protein_source": "hal",
-    "allergens": "hal; glutén",
+    "allergens": "hal; glutén; tojás",
     "fruit_veg": "paradicsom, cukkini",
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Kis, puha tésztával és szaftos szósszal tálald.",
-    "safety_notes": "A szálkákat gondosan ellenőrizd. Nagy haldarab helyett kisebb pelyhekre szedd.",
+    "safety_notes": "A szálkákat gondosan ellenőrizd. Nagy haldarab helyett kisebb pelyhekre szedd. Alacsony higanytartalmú halat használj, például lazacot vagy tőkehalat; a hal teljesen süljön át és legyen szálkamentes.",
     "family_adaptation": "A családnak olívával, kapribogyóval és parmezánnal egészíthető ki külön.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "hal; családi étel; gyors",
-    "source_ids": "WHO_ASF_REVIEW;FAMILY_MEALS_META;WHO_RF_REVIEW",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3"
+    "source_ids": "WHO_ASF_REVIEW;FAMILY_MEALS_META;WHO_RF_REVIEW;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A tészta tojást is tartalmazhat: tojásmentes változathoz ellenőrzött tojásmentes tésztát válassz.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R041",
@@ -1134,7 +1214,7 @@
     "nutrition_focus": "Növényi vas, fehérje, ízváltozatosság és családi étel.",
     "iron_source": "vöröslencse",
     "protein_source": "vöröslencse",
-    "allergens": "nincs",
+    "allergens": "mustár; zeller",
     "fruit_veg": "paradicsom, sárgarépa",
     "added_sugar": "nincs",
     "added_salt": "nincs",
@@ -1144,8 +1224,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vegán; vasfókusz; családi étel; ízváltozatosság",
-    "source_ids": "WHO_PLANT_REVIEW;WHO_RF_REVIEW;WILSON_FIRST_BITE",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.basicbooks.com/titles/bee-wilson/first-bite/9780465093984/"
+    "source_ids": "WHO_PLANT_REVIEW;WHO_RF_REVIEW;WILSON_FIRST_BITE;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.basicbooks.com/titles/bee-wilson/first-bite/9780465093984/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. Ezek a currykeveréktől függő allergének, nem a kókusz kötelező összetevői. Egykomponensű kurkumával elkerülhető a keverék, de annak címkéjét is nézd meg.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R042",
@@ -1157,7 +1239,7 @@
     "diet": "vegetáriánus",
     "prep_min": "10",
     "cook_min": "12",
-    "ingredients": "2 puha tortilla | 150 g főtt bab | 60 g reszelt sajt | 1/2 avokádó | paradicsom opcionálisan",
+    "ingredients": "2 puha tortilla | 150 g teljesen megfőtt bab (például konzerv) | 60 g reszelt sajt | 1/2 avokádó | paradicsom opcionálisan",
     "steps": "A babot törd meg, vékonyan kend a tortillára, szórd sajttal, hajtsd össze és alacsony hőfokon süsd puhára. Kis háromszögekre vágd.",
     "nutrition_focus": "Növényi vas, fehérje, energia és családi kézbe vehető étel.",
     "iron_source": "bab",
@@ -1167,13 +1249,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "A tortilla maradjon puha, ne legyen keményre pirult.",
-    "safety_notes": "A babot törd meg; egész, kemény bab ne maradjon. A sajtot a sótartalom miatt mértékkel használd.",
+    "safety_notes": "A babot törd meg; egész, kemény bab ne maradjon. A sajtot a sótartalom miatt mértékkel használd. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. Nyers vagy félig főtt babot ne használj; a szárazbab elkészítésénél kövesd a csomagolás áztatási és forralási utasítását.",
     "family_adaptation": "A családnak salsa, saláta, csípős szósz és több fűszer adható külön.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vegetáriánus; vasfókusz; családi étel",
-    "source_ids": "WHO_PLANT_REVIEW;WHO_UNHEALTHY_REVIEW;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_PLANT_REVIEW;WHO_UNHEALTHY_REVIEW;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R043",
@@ -1195,13 +1279,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Puha, szaftos kockák; ne legyen száraz.",
-    "safety_notes": "Az alma magházát távolítsd el. A közepe süljön át.",
+    "safety_notes": "Az alma magházát távolítsd el. A közepe süljön át. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családnak magkrémmel, joghurttal és friss gyümölccsel tálalható.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "cukormentes; reggeli; batch",
-    "source_ids": "WHO_UNHEALTHY_REVIEW;FAMILY_MEALS_META;ROSE_BROCCOLI",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://dinanarose.com/its-not-about-the-broccoli/"
+    "source_ids": "WHO_UNHEALTHY_REVIEW;FAMILY_MEALS_META;ROSE_BROCCOLI;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://dinanarose.com/its-not-about-the-broccoli/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R044",
@@ -1223,13 +1309,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "A hummusz krémes, a pita puha és nem száraz.",
-    "safety_notes": "A pitát ne pirítsd keményre. A tahini allergén; ismert allergia esetén hagyd el.",
+    "safety_notes": "A pitát ne pirítsd keményre, a tahinit hígítsd. Ismert szezámallergiánál csak ellenőrzötten szezámmentes alapanyagokkal és keresztszennyeződés nélkül készítsd; kész hummuszból a szezám nem távolítható el.",
     "family_adaptation": "A családnak falafel, saláta és fűszerek mellé tálalható.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vegán; vasfókusz; mártogatós; szín",
-    "source_ids": "WHO_PLANT_REVIEW;WHO_RF_REVIEW;WILSON_FIRST_BITE",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.basicbooks.com/titles/bee-wilson/first-bite/9780465093984/"
+    "source_ids": "WHO_PLANT_REVIEW;WHO_RF_REVIEW;WILSON_FIRST_BITE;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.basicbooks.com/titles/bee-wilson/first-bite/9780465093984/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R045",
@@ -1251,13 +1339,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "A „golyó” inkább lapos és puha legyen, szükség szerint félbevágva.",
-    "safety_notes": "A teljesen kerek, kemény húsgolyó fulladásveszélyesebb; tálaláskor vágd vagy lapítsd.",
+    "safety_notes": "A teljesen kerek, kemény húsgolyó fulladásveszélyesebb; tálaláskor vágd vagy lapítsd. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "A családnak spagettivel, sajttal és több fűszerrel tálalható.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "hús; vasfókusz; családi étel; batch",
-    "source_ids": "WHO_ASF_REVIEW;CDC_CHOKING;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_ASF_REVIEW;CDC_CHOKING;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R046",
@@ -1279,13 +1369,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Puha tekercs; a gyermek segíthet a töltésben és tekerésben.",
-    "safety_notes": "A tojás teljesen süljön át. Forró serpenyőt csak felnőtt kezeljen.",
+    "safety_notes": "A tojás teljesen süljön át. Forró serpenyőt csak felnőtt kezeljen. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass.",
     "family_adaptation": "Közös reggeli: a család külön fűszerezheti és töltheti.",
     "freezer_ok": "nem",
     "batch_ok": "nem",
     "evidence_tags": "közös főzés; tojás; zöldség",
-    "source_ids": "FAMILY_MEALS_META;WHO_RF_REVIEW;SATTER_DOR",
-    "source_urls": "https://pubmed.ncbi.nlm.nih.gov/29369410/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.ellynsatterinstitute.org/how-to-feed/the-division-of-responsibility-in-feeding/"
+    "source_ids": "FAMILY_MEALS_META;WHO_RF_REVIEW;SATTER_DOR;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://pubmed.ncbi.nlm.nih.gov/29369410/;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.ellynsatterinstitute.org/how-to-feed/the-division-of-responsibility-in-feeding/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R047",
@@ -1297,7 +1389,7 @@
     "diet": "mindenevő",
     "prep_min": "15",
     "cook_min": "20",
-    "ingredients": "300 g szálkamentes halfilé | 1 tojás | 60 g finom zabpehely vagy morzsa | olajspray/kevés olaj",
+    "ingredients": "300 g szálkamentes tőkehal- vagy lazacfilé | 1 tojás | 60 g finom zabpehely vagy morzsa | olajspray/kevés olaj",
     "steps": "A halat csíkokra vágd, tojásba és finom zabba forgasd, majd sütőben teljesen süsd át, de ne szárítsd ki.",
     "nutrition_focus": "Hal, fehérje és házi alternatíva erősen feldolgozott termék helyett.",
     "iron_source": "hal, zab",
@@ -1307,13 +1399,15 @@
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Belül puha, kívül enyhén kérges; kisebb gyermeknek felvágva.",
-    "safety_notes": "A halat szálkázd ki. A forró belső részt tálalás előtt ellenőrizd.",
+    "safety_notes": "A halat szálkázd ki. A forró belső részt tálalás előtt ellenőrizd. A tojásos étel közepe is teljesen süljön/főjön át; nyers tojásos masszát ne kóstoltass. Alacsony higanytartalmú halat használj, például lazacot vagy tőkehalat; a hal teljesen süljön át és legyen szálkamentes.",
     "family_adaptation": "A családnak sült burgonyával, salátával és joghurtos szósszal tálalható.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "hal; családi étel; házi alternatíva",
-    "source_ids": "WHO_ASF_REVIEW;WHO_UNHEALTHY_REVIEW;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_ASF_REVIEW;WHO_UNHEALTHY_REVIEW;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-animal-source-foods.pdf?sfvrsn=de55e4b7_3;https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R048",
@@ -1340,8 +1434,10 @@
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "vegán; vasfókusz; autonómia; családi étel",
-    "source_ids": "WHO_PLANT_REVIEW;SATTER_DOR;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://www.ellynsatterinstitute.org/how-to-feed/the-division-of-responsibility-in-feeding/;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_PLANT_REVIEW;SATTER_DOR;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf?sfvrsn=39939e59_3;https://www.ellynsatterinstitute.org/how-to-feed/the-division-of-responsibility-in-feeding/;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R049",
@@ -1358,18 +1454,20 @@
     "nutrition_focus": "Zöldség, tejtermék és gyermekbarát családi szósz hozzáadott cukor nélkül.",
     "iron_source": "tészta, sütőtök",
     "protein_source": "sajt, tej",
-    "allergens": "tej; glutén",
+    "allergens": "tej; glutén; tojás",
     "fruit_veg": "sütőtök",
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "Krémes, szaftos; a tészta ne legyen kemény.",
-    "safety_notes": "A sajt sótartalma miatt ne sózd külön. Forrón ne tálald.",
+    "safety_notes": "A sajt sótartalma miatt ne sózd külön. Forrón ne tálald. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz.",
     "family_adaptation": "A felnőtt adaghoz bors, chili, zsálya és több sajt kerülhet külön.",
     "freezer_ok": "igen",
     "batch_ok": "igen",
     "evidence_tags": "zöldség; családi étel; komfortétel",
-    "source_ids": "WHO_UNHEALTHY_REVIEW;FAMILY_MEALS_META;ROSE_BROCCOLI",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://dinanarose.com/its-not-about-the-broccoli/"
+    "source_ids": "WHO_UNHEALTHY_REVIEW;FAMILY_MEALS_META;ROSE_BROCCOLI;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-unhealthy-foods-and-beverages.pdf?sfvrsn=d4c4f02d_3;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://dinanarose.com/its-not-about-the-broccoli/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A tészta tojást is tartalmazhat: tojásmentes változathoz ellenőrzött tojásmentes tésztát válassz.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   },
   {
     "id": "R050",
@@ -1381,22 +1479,24 @@
     "diet": "vegetáriánus",
     "prep_min": "10",
     "cook_min": "8",
-    "ingredients": "natúr joghurt | puha bogyós gyümölcs vagy őszibarack | finom zabpehely | banán | őrölt mag opcionálisan",
+    "ingredients": "natúr joghurt | puha bogyós gyümölcs vagy őszibarack | finom zabpehely | banán | finomra őrölt dió opcionálisan, a joghurtba keverve",
     "steps": "A zabot röviden főzd vagy áztasd puhára. A gyermek rétegezze a joghurttal és gyümölccsel.",
     "nutrition_focus": "Tejtermék, gyümölcs, gabona és önálló ételkészítés.",
     "iron_source": "zab, magőrlemény opcionálisan",
     "protein_source": "joghurt",
-    "allergens": "tej; glutén; dióféle opcionálisan",
+    "allergens": "tej; glutén; dióféle",
     "fruit_veg": "választott gyümölcs",
     "added_sugar": "nincs",
     "added_salt": "nincs",
     "texture_notes": "A zab legyen puha, a gyümölcs kis és jól rágható darabokban.",
-    "safety_notes": "Egész diófélét ne adj. Szőlőt csak hosszában negyedelve, kemény gyümölcsöt puhítva kínálj.",
+    "safety_notes": "Egész diófélét ne adj. Szőlőt csak hosszában negyedelve, kemény gyümölcsöt puhítva kínálj. A tej és tejtermék pasztőrözött alapanyagból készüljön; sajtból ne penészes érlelésű lágy sajtot válassz.",
     "family_adaptation": "Közös reggeli, mindenki saját poharat állíthat össze.",
     "freezer_ok": "nem",
     "batch_ok": "nem",
     "evidence_tags": "közös készítés; reggeli; gyümölcs",
-    "source_ids": "WHO_RF_REVIEW;CDC_CHOKING;FAMILY_MEALS_META",
-    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://pubmed.ncbi.nlm.nih.gov/29369410/"
+    "source_ids": "WHO_RF_REVIEW;CDC_CHOKING;FAMILY_MEALS_META;NHS_ALLERGY;CDC_FOOD_AVOID;NHS_FOOD_AVOID",
+    "source_urls": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-responsive-feeding.pdf?sfvrsn=2a46329d_3;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html;https://pubmed.ncbi.nlm.nih.gov/29369410/;https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/;https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html;https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "allergen_notes": "A jelölés a felsorolt alapreceptre és annak választható összetevőire vonatkozik. A családi kiegészítések és a megvásárolt termékek további allergéneket vihetnek bele; ellenőrizd a címkét. A „nincs jelölt fő allergén” nem jelent allergénmentességi garanciát; például hüvelyesekre is lehet allergiás valaki. A zabot külön is vedd figyelembe; a gluténjelölés itt óvatossági szűrés. Igazolt gluténmentes zab sem megfelelő minden zaballergiás vagy cöliákiás gyermeknek; kövesd az egyéni étrendi előírást. Az eredeti választható jelölés: tej; glutén; dióféle opcionálisan.",
+    "review_scope": "v1.9: allergének és összetevőbiztonság ellenőrizve; nem tápérték- vagy étrendi audit."
   }
 ]

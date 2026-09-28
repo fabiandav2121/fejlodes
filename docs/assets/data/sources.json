@@ -453,5 +453,26 @@
     "type": "professional_organization_parent_guidance",
     "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Sexual-Abuse.aspx",
     "note": "Általános, szülőknek szóló gyermekvédelmi útmutató; nem klinikai hatásvizsgálat. A projektben eredetileg nem szerepelt; a kapcsolódó kártya pontosításához ellenőrizve."
+  },
+  {
+    "id": "NHS_ALLERGY",
+    "title": "NHS: Food allergies in babies and young children",
+    "type": "Hivatalos egészségügyi tájékoztató",
+    "url": "https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/",
+    "note": "A receptellenőrzés kiegészítő biztonsági forrása; ellenőrizve: 2026-09-28. Nem az egyedi recept tápértékének igazolása."
+  },
+  {
+    "id": "CDC_FOOD_AVOID",
+    "title": "CDC: Foods and Drinks to Avoid or Limit",
+    "type": "Hivatalos egészségügyi tájékoztató",
+    "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html",
+    "note": "A receptellenőrzés kiegészítő biztonsági forrása; ellenőrizve: 2026-09-28. Nem az egyedi recept tápértékének igazolása."
+  },
+  {
+    "id": "NHS_FOOD_AVOID",
+    "title": "NHS: Foods to avoid giving babies and young children",
+    "type": "Hivatalos egészségügyi tájékoztató",
+    "url": "https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+    "note": "A receptellenőrzés kiegészítő biztonsági forrása; ellenőrizve: 2026-09-28. Nem az egyedi recept tápértékének igazolása."
   }
 ]

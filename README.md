@@ -1,10 +1,10 @@
-# Fejlődési, tevékenységi és étkezési tudástár v1.8
+# Fejlődési, tevékenységi és étkezési tudástár v1.9
 
 MkDocs Material alapú, kereshető családi tudástár 0–6 éves korig.
 
 ## Tartalom
 
-- 224 tevékenység: `data/activities.csv`
+- 234 tevékenység: `data/activities.csv`
 - 50 recept: `data/recipes.csv`
 - elméleti és életkori fejezetek
 - külön étkezési modul: responsive feeding, textúrák, vas, allergének, biztonság, válogatósság, BLW/BLISS
@@ -32,7 +32,7 @@ Majd: `http://127.0.0.1:8000/`
 
 ## GitHub-frissítés
 
-A v1.8 mappa **tartalmát** töltsd fel a repo gyökerébe a meglévő fájlok fölé, majd commit/push. A workflow újragenerálja a JSON-adatokat és a weboldalt.
+A v1.9 mappa **tartalmát** töltsd fel a repo gyökerébe a meglévő fájlok fölé, majd commit/push. A workflow újragenerálja a JSON-adatokat és a weboldalt.
 
 A feltöltött könyv-PDF/EPUB/MOBI fájlokat ne tedd fel public repóba.
 
@@ -47,3 +47,7 @@ A `data/activity_audit.csv` és az `AKTIVITAS_AUDIT_v1_7.md` kártyánként soro
 ## v1.8: a jelzett kártyák pontosítása
 
 A v1.7-ben megjelölt 206 tevékenységhez célzott javítás készült. A régi probléma, a módosítás és a jelenlegi biztonsági feltétel a `data/activity_corrections.csv` és az `AKTIVITAS_JAVITASOK_v1_8.md` fájlban követhető. A kereső a javított változatot és a korábbi jelzést külön mutatja.
+
+## v1.9: bővítés és receptbiztonság
+
+Az elfogadott 224 tevékenység tartalma változatlan; 10 új ötlet: A225–A234. Mind az 50 recept allergén- és összetevőbiztonsági ellenőrzést kapott. Részletek: `VALTOZASOK_v1_9.md`, `data/recipe_review_v1_9.csv`. Tápérték-audit és teljes mobilnézeti ellenőrzés nem történt ebben a körben.

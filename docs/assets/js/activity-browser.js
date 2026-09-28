@@ -155,7 +155,7 @@
               <select id="location"><option value="">Összes</option><option value="benti">benti</option><option value="kinti">kinti</option></select>
             </label>
             <label>Javítás állapota
-              <select id="correction"><option value="">Összes állapot</option><option>Pontosítva</option><option>További szakmai ellenőrzés szükséges</option><option>Nincs célzott módosítás</option></select>
+              <select id="correction"><option value="">Összes állapot</option><option>Pontosítva</option><option>További szakmai ellenőrzés szükséges</option><option>Nincs célzott módosítás</option><option>Új tevékenység (v1.9)</option></select>
             </label>
             <label>Korábbi auditjelzés
               <select id="audit"><option value="">Összes tevékenység</option><option>Biztonsági pontosítás szükséges</option><option>Tartalmi pontosítás szükséges</option><option>Forráshivatkozás tisztázandó</option><option>Nincs külön jelölt probléma</option></select>
